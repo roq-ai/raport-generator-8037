@@ -1,0 +1,3192 @@
+[
+  {
+    "report": [
+      {
+        "id": "a3d69a59-d9ca-4fb9-85d2-5329e5722a1c",
+        "created_at": "2023-10-10T08:40:56.983Z",
+        "updated_at": "2023-10-09T15:55:14.001Z"
+      },
+      {
+        "id": "d9aa927d-73a5-425a-8769-df7a8109067f",
+        "created_at": "2023-10-09T12:52:49.593Z",
+        "updated_at": "2023-10-10T01:47:18.698Z"
+      },
+      {
+        "id": "210f8a01-c1ac-427f-9af5-6fb7aacccdde",
+        "created_at": "2023-10-09T21:34:12.560Z",
+        "updated_at": "2023-10-09T14:56:53.811Z"
+      },
+      {
+        "id": "072fabb7-f37d-49e9-a6ee-565966bfc230",
+        "created_at": "2023-10-10T03:50:50.576Z",
+        "updated_at": "2023-10-09T14:35:23.699Z"
+      },
+      {
+        "id": "cc3c82da-8fe4-474e-b841-23d5d60f62ed",
+        "created_at": "2023-10-10T07:12:55.385Z",
+        "updated_at": "2023-10-09T12:36:21.605Z"
+      }
+    ],
+    "region": [
+      {
+        "id": "7b33331f-ddfe-4f64-8587-f85d9f72aa46",
+        "created_at": "2023-10-10T08:32:51.675Z",
+        "updated_at": "2023-10-09T18:16:57.339Z"
+      },
+      {
+        "id": "07aa1e5c-199b-4e5f-ad44-405d06ad17e1",
+        "created_at": "2023-10-09T22:46:59.590Z",
+        "updated_at": "2023-10-09T19:59:55.661Z"
+      },
+      {
+        "id": "28b69055-a641-4d32-94eb-059af20559c5",
+        "created_at": "2023-10-09T12:39:08.533Z",
+        "updated_at": "2023-10-10T06:59:18.022Z"
+      },
+      {
+        "id": "ba8b91b7-42aa-46e7-a98d-62f16518e97a",
+        "created_at": "2023-10-10T05:52:24.983Z",
+        "updated_at": "2023-10-10T08:14:15.797Z"
+      },
+      {
+        "id": "c31a9e5f-7a28-4d89-893c-df04c40880a1",
+        "created_at": "2023-10-09T20:22:26.924Z",
+        "updated_at": "2023-10-09T11:38:19.965Z"
+      }
+    ],
+    "population_growth": [
+      {
+        "id": "71f64327-40c9-46cc-b5ab-2c5c976f0640",
+        "created_at": "2023-10-09T22:26:07.179Z",
+        "updated_at": "2023-10-09T23:12:57.944Z"
+      },
+      {
+        "id": "7f93fa21-2327-460c-84ec-9f1ac8d063e4",
+        "created_at": "2023-10-10T02:54:12.702Z",
+        "updated_at": "2023-10-10T04:05:54.609Z"
+      },
+      {
+        "id": "3a235094-400e-40af-93e9-aef9a66bb425",
+        "created_at": "2023-10-09T19:08:24.114Z",
+        "updated_at": "2023-10-10T03:46:13.271Z"
+      },
+      {
+        "id": "2962e876-3296-4843-9260-44c088c0998a",
+        "created_at": "2023-10-09T14:09:27.519Z",
+        "updated_at": "2023-10-09T11:25:24.958Z"
+      },
+      {
+        "id": "1fc37c3c-9a4a-48c2-a475-60da1b6f6bd1",
+        "created_at": "2023-10-10T08:46:34.535Z",
+        "updated_at": "2023-10-10T06:59:51.963Z"
+      }
+    ],
+    "niche": [
+      {
+        "id": "83bb91ef-125b-4a3f-b239-22978bdd6c40",
+        "created_at": "2023-10-10T00:15:01.502Z",
+        "updated_at": "2023-10-10T07:46:41.439Z"
+      },
+      {
+        "id": "0571d337-b237-48a3-a697-95dfdb77998b",
+        "created_at": "2023-10-10T09:06:05.045Z",
+        "updated_at": "2023-10-10T01:11:19.967Z"
+      },
+      {
+        "id": "df8531ea-4448-49c7-806a-19edbc31bd23",
+        "created_at": "2023-10-09T10:28:20.285Z",
+        "updated_at": "2023-10-09T09:44:42.080Z"
+      },
+      {
+        "id": "81fa1962-1225-43cf-90fb-39e5c49c08bc",
+        "created_at": "2023-10-10T03:03:32.546Z",
+        "updated_at": "2023-10-09T09:45:49.322Z"
+      },
+      {
+        "id": "5835ed22-907e-4310-abc7-566deec359cb",
+        "created_at": "2023-10-09T10:51:12.154Z",
+        "updated_at": "2023-10-10T04:18:09.175Z"
+      }
+    ],
+    "market_analysis": [
+      {
+        "id": "d041162c-5072-460e-9fe7-e7cebdfa83d0",
+        "created_at": "2023-10-09T21:11:48.111Z",
+        "updated_at": "2023-10-10T03:49:38.831Z"
+      },
+      {
+        "id": "75101ce8-07dd-4961-89c7-f66b26fddc1a",
+        "created_at": "2023-10-09T15:08:42.715Z",
+        "updated_at": "2023-10-09T18:45:02.002Z"
+      },
+      {
+        "id": "29ce02e7-016e-4074-b398-7068968a3a40",
+        "created_at": "2023-10-09T16:47:38.012Z",
+        "updated_at": "2023-10-09T20:53:07.882Z"
+      },
+      {
+        "id": "e8bab67b-3902-4461-b4bd-42fc701eae22",
+        "created_at": "2023-10-10T04:40:17.013Z",
+        "updated_at": "2023-10-10T02:10:01.931Z"
+      },
+      {
+        "id": "c6876f7b-0c7d-45d3-9375-140117df2007",
+        "created_at": "2023-10-10T09:09:53.050Z",
+        "updated_at": "2023-10-09T12:53:20.037Z"
+      }
+    ],
+    "industry_trends": [
+      {
+        "id": "3d59ca3d-5359-4060-876e-37cf90dd3704",
+        "created_at": "2023-10-09T23:08:39.778Z",
+        "updated_at": "2023-10-09T20:59:58.280Z"
+      },
+      {
+        "id": "d574a3eb-9518-4bac-aeca-e45189a8f160",
+        "created_at": "2023-10-10T06:53:41.053Z",
+        "updated_at": "2023-10-09T18:01:35.870Z"
+      },
+      {
+        "id": "b11de46f-38b6-4058-ad6e-1e9b2fb57464",
+        "created_at": "2023-10-10T09:22:47.007Z",
+        "updated_at": "2023-10-09T16:27:17.374Z"
+      },
+      {
+        "id": "cd556f48-a359-416c-9105-797107aa65c0",
+        "created_at": "2023-10-09T22:43:03.612Z",
+        "updated_at": "2023-10-10T06:57:23.827Z"
+      },
+      {
+        "id": "39df9400-803f-4a7d-8859-4ab29ff9fd55",
+        "created_at": "2023-10-09T12:35:27.664Z",
+        "updated_at": "2023-10-09T23:07:26.026Z"
+      }
+    ],
+    "economic_indicators": [
+      {
+        "id": "e9bcb068-3847-4680-a623-7f805e74b5bc",
+        "created_at": "2023-10-10T06:15:57.026Z",
+        "updated_at": "2023-10-09T17:57:21.913Z"
+      },
+      {
+        "id": "a42c0a25-e244-44d0-a7a9-ec24cf7a5baf",
+        "created_at": "2023-10-10T04:27:27.038Z",
+        "updated_at": "2023-10-10T09:15:00.328Z"
+      },
+      {
+        "id": "fccd610e-8a78-4612-8733-ba6bb8156d67",
+        "created_at": "2023-10-09T23:19:17.283Z",
+        "updated_at": "2023-10-10T08:46:13.291Z"
+      },
+      {
+        "id": "430af044-89b6-4079-9f16-6aa5cf231baf",
+        "created_at": "2023-10-09T10:45:00.481Z",
+        "updated_at": "2023-10-10T07:37:24.322Z"
+      },
+      {
+        "id": "5cee3dc4-4107-4ba7-917b-3204fe8a53f0",
+        "created_at": "2023-10-10T05:01:13.614Z",
+        "updated_at": "2023-10-10T07:16:09.135Z"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "354339fa-cfb6-401f-b659-fce161714c23",
+        "created_at": "2023-10-09T11:42:55.988Z",
+        "updated_at": "2023-10-09T20:40:48.958Z"
+      },
+      {
+        "id": "5441f88b-036a-4c9e-9828-2c8e9ee360fc",
+        "created_at": "2023-10-09T16:40:41.486Z",
+        "updated_at": "2023-10-09T15:16:31.428Z"
+      },
+      {
+        "id": "e4e1a4db-e9a8-4a95-8f1a-a1f89a5e7b9c",
+        "created_at": "2023-10-09T16:48:23.763Z",
+        "updated_at": "2023-10-10T07:38:43.047Z"
+      },
+      {
+        "id": "61ede882-2f43-47f2-98c7-ace02ddbcc74",
+        "created_at": "2023-10-10T00:59:10.237Z",
+        "updated_at": "2023-10-09T13:38:11.011Z"
+      },
+      {
+        "id": "4039b0f7-1bb4-4727-b3f8-36e491976859",
+        "created_at": "2023-10-09T19:42:49.917Z",
+        "updated_at": "2023-10-10T02:05:48.922Z"
+      }
+    ],
+    "business_statistics": [
+      {
+        "id": "d0d263c6-bee7-48f0-8cb3-6a641bea0494",
+        "created_at": "2023-10-09T21:52:56.745Z",
+        "updated_at": "2023-10-09T10:40:58.688Z"
+      },
+      {
+        "id": "89dfc98a-2fc3-45b8-a9b9-b86224140429",
+        "created_at": "2023-10-10T01:22:56.018Z",
+        "updated_at": "2023-10-09T17:35:23.096Z"
+      },
+      {
+        "id": "9044000c-b6c1-4888-99cc-a9a28879d96f",
+        "created_at": "2023-10-10T09:29:19.072Z",
+        "updated_at": "2023-10-09T15:27:51.921Z"
+      },
+      {
+        "id": "270792e8-5376-4421-9af2-8c18c1f79d59",
+        "created_at": "2023-10-09T16:52:40.475Z",
+        "updated_at": "2023-10-09T17:42:59.436Z"
+      },
+      {
+        "id": "e024c2d4-f80b-4310-b86a-b82393d8b411",
+        "created_at": "2023-10-09T20:56:52.328Z",
+        "updated_at": "2023-10-10T02:43:33.814Z"
+      }
+    ],
+    "business_environment": [
+      {
+        "id": "f87650fe-4e55-4cbe-9ac1-e01ab067f85c",
+        "created_at": "2023-10-09T16:56:59.858Z",
+        "updated_at": "2023-10-09T23:20:44.906Z"
+      },
+      {
+        "id": "f7f5b30f-7ea7-400a-8b35-76c15e92b33c",
+        "created_at": "2023-10-09T20:33:59.360Z",
+        "updated_at": "2023-10-09T16:58:00.325Z"
+      },
+      {
+        "id": "5bed862c-fdfa-4641-958c-f7e69efa708f",
+        "created_at": "2023-10-10T03:54:18.922Z",
+        "updated_at": "2023-10-09T22:13:34.711Z"
+      },
+      {
+        "id": "e519c6f1-edc3-4d9e-a770-b6cc57fafc52",
+        "created_at": "2023-10-10T01:15:54.685Z",
+        "updated_at": "2023-10-10T03:19:57.864Z"
+      },
+      {
+        "id": "fd367252-ed95-4b8e-9ff4-f7e7818b938d",
+        "created_at": "2023-10-09T21:36:04.061Z",
+        "updated_at": "2023-10-09T14:26:19.083Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "dda0a2c2-40cd-4996-8472-b5565077c6b7",
+        "email": "Telly.Stanton66@roq.tech",
+        "firstName": "Hayden",
+        "lastName": "Dicki",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/859.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "470bc587-207c-494d-935f-10f83d2baf7d",
+        "email": "Annetta35@roq.tech",
+        "firstName": "Holly",
+        "lastName": "Spinka",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91124105",
+        "tenantId": null
+      },
+      {
+        "reference": "602f1dd3-88e2-47cd-b98d-012a748555c2",
+        "email": "Lina.Ryan6@roq.tech",
+        "firstName": "Candelario",
+        "lastName": "D'Amore",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49962708",
+        "tenantId": null
+      },
+      {
+        "reference": "5a1e5876-11ab-4e18-babd-013866e55957",
+        "email": "Claudine55@roq.tech",
+        "firstName": "Roel",
+        "lastName": "Stracke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41393501",
+        "tenantId": null
+      },
+      {
+        "reference": "afd87e29-f219-434a-983d-81109937eb05",
+        "email": "Nettie.Wiza@roq.tech",
+        "firstName": "Lucienne",
+        "lastName": "Waters",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86148042",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "3950c311-0646-475c-8231-5bb58a93d64d",
+        "created_at": "2023-10-10T00:11:30.701Z",
+        "updated_at": "2023-10-09T20:50:28.115Z"
+      },
+      {
+        "id": "6c1e0038-7713-4ca2-9db2-c384cafd10bc",
+        "created_at": "2023-10-09T23:05:05.699Z",
+        "updated_at": "2023-10-09T19:42:06.873Z"
+      },
+      {
+        "id": "7ddd6fe9-ec1b-40f4-850a-91cca706149a",
+        "created_at": "2023-10-09T14:08:07.795Z",
+        "updated_at": "2023-10-10T02:36:36.531Z"
+      },
+      {
+        "id": "19f3e1f4-d71c-40f9-9331-71bfa72d7047",
+        "created_at": "2023-10-09T16:24:45.666Z",
+        "updated_at": "2023-10-10T01:44:02.122Z"
+      },
+      {
+        "id": "decbcdaf-5e2c-422f-b485-79a111421e15",
+        "created_at": "2023-10-09T20:05:31.415Z",
+        "updated_at": "2023-10-09T23:14:22.944Z"
+      }
+    ],
+    "region": [
+      {
+        "id": "8c72fc21-ec38-4909-9aa0-84fb5602e74b",
+        "created_at": "2023-10-10T07:47:35.882Z",
+        "updated_at": "2023-10-09T15:52:51.119Z"
+      },
+      {
+        "id": "30818e49-67c5-4c96-8a84-0f6be6a5a65e",
+        "created_at": "2023-10-09T15:31:05.323Z",
+        "updated_at": "2023-10-09T15:28:06.558Z"
+      },
+      {
+        "id": "03dfd4a6-02e0-4f72-8f91-bc5fc7ef6399",
+        "created_at": "2023-10-10T05:08:43.125Z",
+        "updated_at": "2023-10-09T17:53:22.459Z"
+      },
+      {
+        "id": "34d17450-c03e-4999-aa64-64f47f7eb799",
+        "created_at": "2023-10-10T02:44:14.126Z",
+        "updated_at": "2023-10-09T10:29:48.513Z"
+      },
+      {
+        "id": "9aaf8237-b18b-42d8-86b9-898cd3786747",
+        "created_at": "2023-10-10T02:12:24.101Z",
+        "updated_at": "2023-10-09T13:33:29.599Z"
+      }
+    ],
+    "population_growth": [
+      {
+        "id": "66df678c-fabd-4f26-8f4d-b8de79b50ece",
+        "created_at": "2023-10-09T13:50:40.430Z",
+        "updated_at": "2023-10-09T18:13:55.372Z"
+      },
+      {
+        "id": "468ce212-dbc2-4be7-a2eb-ac1c500a2098",
+        "created_at": "2023-10-09T13:08:57.713Z",
+        "updated_at": "2023-10-09T18:44:55.360Z"
+      },
+      {
+        "id": "3a6dece4-ac6e-40aa-88b7-aee68c578592",
+        "created_at": "2023-10-09T13:33:54.708Z",
+        "updated_at": "2023-10-10T00:51:49.761Z"
+      },
+      {
+        "id": "317dd21c-9779-433a-9b5c-b2e714889af8",
+        "created_at": "2023-10-10T03:29:32.408Z",
+        "updated_at": "2023-10-09T20:23:54.487Z"
+      },
+      {
+        "id": "49b182c6-60a9-4dbb-b252-470dca81ddf2",
+        "created_at": "2023-10-09T13:40:52.874Z",
+        "updated_at": "2023-10-09T13:20:50.984Z"
+      }
+    ],
+    "niche": [
+      {
+        "id": "a32725d9-548a-44f0-abf8-eac15f58b70b",
+        "created_at": "2023-10-10T00:55:54.535Z",
+        "updated_at": "2023-10-10T07:14:58.565Z"
+      },
+      {
+        "id": "55b34d0c-d5c0-4651-9054-fb4c09cef32a",
+        "created_at": "2023-10-10T08:37:51.011Z",
+        "updated_at": "2023-10-09T10:41:58.493Z"
+      },
+      {
+        "id": "2642f6d4-e4cd-4b39-b4d0-f919872cf99c",
+        "created_at": "2023-10-10T06:56:07.529Z",
+        "updated_at": "2023-10-09T13:18:12.262Z"
+      },
+      {
+        "id": "20fd9770-210e-4aa8-bd08-dc5e6b26a26c",
+        "created_at": "2023-10-09T18:33:16.321Z",
+        "updated_at": "2023-10-10T05:00:43.388Z"
+      },
+      {
+        "id": "a31d9170-9a32-4dd1-a0e3-b8a38438becd",
+        "created_at": "2023-10-09T18:50:31.361Z",
+        "updated_at": "2023-10-09T22:05:05.312Z"
+      }
+    ],
+    "market_analysis": [
+      {
+        "id": "1382526d-d95a-414d-8630-8df1a9c4f78a",
+        "created_at": "2023-10-10T00:46:06.951Z",
+        "updated_at": "2023-10-09T20:45:55.532Z"
+      },
+      {
+        "id": "e2983c7a-633b-4fdf-90dc-226a6ac50b28",
+        "created_at": "2023-10-09T15:26:45.021Z",
+        "updated_at": "2023-10-09T20:51:14.746Z"
+      },
+      {
+        "id": "068f119a-cd17-4d3d-a601-3a33b40c5e1d",
+        "created_at": "2023-10-09T11:17:26.487Z",
+        "updated_at": "2023-10-10T06:00:14.427Z"
+      },
+      {
+        "id": "8baf692d-686b-493f-baa6-73dd6485a381",
+        "created_at": "2023-10-10T07:00:35.541Z",
+        "updated_at": "2023-10-09T20:55:40.121Z"
+      },
+      {
+        "id": "6d090151-f057-4988-af1b-eeec78de419f",
+        "created_at": "2023-10-10T00:11:35.608Z",
+        "updated_at": "2023-10-10T08:55:48.644Z"
+      }
+    ],
+    "industry_trends": [
+      {
+        "id": "dbd0cf0e-2c3b-43d2-a1cb-ee21f981de9c",
+        "created_at": "2023-10-10T09:11:57.861Z",
+        "updated_at": "2023-10-10T05:32:46.345Z"
+      },
+      {
+        "id": "05489a3b-fcd6-4459-be87-d64389f4b438",
+        "created_at": "2023-10-10T03:29:55.226Z",
+        "updated_at": "2023-10-09T21:26:40.839Z"
+      },
+      {
+        "id": "8ad6b2bd-876c-4eda-bd16-e97f2ff88bf3",
+        "created_at": "2023-10-09T21:37:49.033Z",
+        "updated_at": "2023-10-09T19:16:15.874Z"
+      },
+      {
+        "id": "00203db7-82bb-45a1-910c-c7ca46e03f3d",
+        "created_at": "2023-10-10T06:37:12.627Z",
+        "updated_at": "2023-10-10T03:00:26.687Z"
+      },
+      {
+        "id": "3e33494d-a75f-4f4e-bf5a-500a8fceefb6",
+        "created_at": "2023-10-09T22:00:16.693Z",
+        "updated_at": "2023-10-10T07:59:30.413Z"
+      }
+    ],
+    "economic_indicators": [
+      {
+        "id": "257d4019-126f-4273-9c40-85756eb77fc1",
+        "created_at": "2023-10-09T13:49:45.547Z",
+        "updated_at": "2023-10-09T10:44:24.219Z"
+      },
+      {
+        "id": "3b381f1e-61e3-423b-868e-f93a14cd38c1",
+        "created_at": "2023-10-09T19:50:02.231Z",
+        "updated_at": "2023-10-09T19:05:07.590Z"
+      },
+      {
+        "id": "eeb6e1e4-d146-4c54-adb9-369901575928",
+        "created_at": "2023-10-09T22:11:58.632Z",
+        "updated_at": "2023-10-09T10:50:35.785Z"
+      },
+      {
+        "id": "a85a9425-c1b1-4c50-a859-5dfcfaf09892",
+        "created_at": "2023-10-09T23:41:20.420Z",
+        "updated_at": "2023-10-10T02:04:56.037Z"
+      },
+      {
+        "id": "b3e01cab-0091-4a74-9252-38ea9857fd6a",
+        "created_at": "2023-10-09T19:40:05.742Z",
+        "updated_at": "2023-10-09T17:31:14.182Z"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "af790445-6b7d-43c1-b4c6-efead5c8a60b",
+        "created_at": "2023-10-09T13:19:18.331Z",
+        "updated_at": "2023-10-09T12:56:31.154Z"
+      },
+      {
+        "id": "6d7baa6b-8947-40f0-86b2-f429f8d3b609",
+        "created_at": "2023-10-09T12:45:54.780Z",
+        "updated_at": "2023-10-09T11:04:24.741Z"
+      },
+      {
+        "id": "9e809323-e428-4832-abc3-4385310be820",
+        "created_at": "2023-10-10T02:01:29.847Z",
+        "updated_at": "2023-10-09T12:55:48.710Z"
+      },
+      {
+        "id": "ef6dd304-7879-4032-8e03-322f143a41a8",
+        "created_at": "2023-10-09T10:03:58.056Z",
+        "updated_at": "2023-10-09T16:35:34.380Z"
+      },
+      {
+        "id": "6f055351-37cb-44a5-ae4a-de15023bb2ab",
+        "created_at": "2023-10-09T14:13:28.180Z",
+        "updated_at": "2023-10-10T05:24:56.769Z"
+      }
+    ],
+    "business_statistics": [
+      {
+        "id": "5f3777b5-f2d1-411c-a2c5-2e32195d060a",
+        "created_at": "2023-10-10T08:40:11.001Z",
+        "updated_at": "2023-10-09T23:29:00.647Z"
+      },
+      {
+        "id": "88734ab2-da90-49cf-b474-a64b161e412d",
+        "created_at": "2023-10-09T23:36:55.146Z",
+        "updated_at": "2023-10-09T11:36:16.206Z"
+      },
+      {
+        "id": "5b70d8bb-23f2-446c-aec0-cb4ff3c8dfed",
+        "created_at": "2023-10-09T16:03:42.405Z",
+        "updated_at": "2023-10-09T14:51:38.767Z"
+      },
+      {
+        "id": "488a4bbe-aef7-4014-b9c1-31e731ca70ae",
+        "created_at": "2023-10-10T02:06:20.416Z",
+        "updated_at": "2023-10-09T16:33:10.947Z"
+      },
+      {
+        "id": "e06aa142-1148-40a3-9683-1449b0a8a11b",
+        "created_at": "2023-10-10T00:38:08.006Z",
+        "updated_at": "2023-10-09T12:20:16.294Z"
+      }
+    ],
+    "business_environment": [
+      {
+        "id": "8375751e-e2da-4c3e-940f-57de52d4b1ee",
+        "created_at": "2023-10-10T05:43:33.135Z",
+        "updated_at": "2023-10-09T11:22:38.397Z"
+      },
+      {
+        "id": "3adf1129-89db-47f8-9f4a-c5d3ab870840",
+        "created_at": "2023-10-10T00:00:40.142Z",
+        "updated_at": "2023-10-10T03:43:36.732Z"
+      },
+      {
+        "id": "99e11998-3b53-4414-972b-beae330899f4",
+        "created_at": "2023-10-09T20:54:25.752Z",
+        "updated_at": "2023-10-09T14:44:05.867Z"
+      },
+      {
+        "id": "aebacc86-0c6e-42bc-be85-99426fc759c1",
+        "created_at": "2023-10-09T11:25:01.111Z",
+        "updated_at": "2023-10-10T05:50:13.722Z"
+      },
+      {
+        "id": "7cf83187-e7ea-48a5-9a74-5f6b888ed22c",
+        "created_at": "2023-10-10T04:20:56.728Z",
+        "updated_at": "2023-10-09T16:10:21.350Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9c0f8ebd-2f33-4664-8819-006ad3d36874",
+        "email": "Emerson96@roq.tech",
+        "firstName": "Jenifer",
+        "lastName": "Okuneva",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45688079",
+        "tenantId": null
+      },
+      {
+        "reference": "901b85a6-7c48-4ae1-ba47-7aadfa461e65",
+        "email": "Jeremy_Hansen32@roq.tech",
+        "firstName": "Karine",
+        "lastName": "Herzog",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/661.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "685f3652-cede-4c71-b1c4-73358a68768e",
+        "email": "Lois35@roq.tech",
+        "firstName": "Bertrand",
+        "lastName": "Sporer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97038563",
+        "tenantId": null
+      },
+      {
+        "reference": "a27c1301-d1ac-49ba-ae88-e3c841f73bcf",
+        "email": "Clifton_Beier@roq.tech",
+        "firstName": "Lon",
+        "lastName": "Kris",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1182.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5e24de8c-d425-46b3-b5c6-09d519d9a371",
+        "email": "Friedrich.Stanton72@roq.tech",
+        "firstName": "Rod",
+        "lastName": "Ankunding",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90385271",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "ad888022-e6bc-4561-831d-516107fe7d8d",
+        "created_at": "2023-10-10T09:03:23.636Z",
+        "updated_at": "2023-10-09T10:40:45.796Z"
+      },
+      {
+        "id": "ca9409e4-cc39-4e96-a906-b61ce34e1939",
+        "created_at": "2023-10-09T19:02:05.123Z",
+        "updated_at": "2023-10-10T01:39:06.944Z"
+      },
+      {
+        "id": "45f0a416-a6ff-47cf-b9e8-d42a1ebbeec9",
+        "created_at": "2023-10-10T05:13:07.485Z",
+        "updated_at": "2023-10-10T06:27:47.435Z"
+      },
+      {
+        "id": "2aa163b7-9350-4b02-abfe-780033ff2b3a",
+        "created_at": "2023-10-09T21:33:40.695Z",
+        "updated_at": "2023-10-10T05:38:41.182Z"
+      },
+      {
+        "id": "59854cd6-722a-4eef-b34d-de03d3ceaeff",
+        "created_at": "2023-10-10T08:21:20.481Z",
+        "updated_at": "2023-10-09T19:23:26.084Z"
+      }
+    ],
+    "region": [
+      {
+        "id": "09e67f3c-58ff-4d2e-b080-a745765b1c3e",
+        "created_at": "2023-10-10T03:39:10.711Z",
+        "updated_at": "2023-10-10T00:44:33.660Z"
+      },
+      {
+        "id": "cd9cc1cc-c003-4e74-8909-3a6026f5d7fe",
+        "created_at": "2023-10-10T05:48:27.843Z",
+        "updated_at": "2023-10-09T18:54:33.342Z"
+      },
+      {
+        "id": "5fd43ced-7c86-4b5d-a1b0-e22ec6780527",
+        "created_at": "2023-10-09T22:01:35.395Z",
+        "updated_at": "2023-10-09T13:39:10.477Z"
+      },
+      {
+        "id": "a3941a01-6352-4dc1-9da8-b9eb5b5dd369",
+        "created_at": "2023-10-09T10:27:07.088Z",
+        "updated_at": "2023-10-10T00:04:18.776Z"
+      },
+      {
+        "id": "c4f348d6-00eb-40fa-a63d-33711ab36d8c",
+        "created_at": "2023-10-10T07:10:02.677Z",
+        "updated_at": "2023-10-09T10:09:45.418Z"
+      }
+    ],
+    "population_growth": [
+      {
+        "id": "184d0fee-9581-4d1a-995e-8dff0c294b9f",
+        "created_at": "2023-10-09T10:07:42.681Z",
+        "updated_at": "2023-10-10T07:19:09.287Z"
+      },
+      {
+        "id": "92990a76-02bc-4b16-b949-1e2b5a054af2",
+        "created_at": "2023-10-09T20:43:05.670Z",
+        "updated_at": "2023-10-09T13:09:23.132Z"
+      },
+      {
+        "id": "86065d9f-e227-4778-907f-921281f02657",
+        "created_at": "2023-10-09T10:11:39.325Z",
+        "updated_at": "2023-10-10T08:07:47.720Z"
+      },
+      {
+        "id": "13ba1817-6fbe-4eed-a9b5-ae824b0c6a43",
+        "created_at": "2023-10-09T23:52:27.339Z",
+        "updated_at": "2023-10-09T14:34:13.095Z"
+      },
+      {
+        "id": "e3ec5568-57d2-4635-837b-0205bb3b2702",
+        "created_at": "2023-10-09T13:41:34.257Z",
+        "updated_at": "2023-10-09T13:54:45.634Z"
+      }
+    ],
+    "niche": [
+      {
+        "id": "47bc3391-13fd-4208-a23c-54cb2e970a56",
+        "created_at": "2023-10-09T23:05:04.322Z",
+        "updated_at": "2023-10-10T02:15:46.244Z"
+      },
+      {
+        "id": "38533414-7cce-4c89-892b-e3e5899f2a1e",
+        "created_at": "2023-10-09T19:35:06.797Z",
+        "updated_at": "2023-10-10T02:38:30.719Z"
+      },
+      {
+        "id": "471c1475-b0e7-4639-aa23-638126dd3124",
+        "created_at": "2023-10-09T16:47:57.687Z",
+        "updated_at": "2023-10-10T06:51:36.399Z"
+      },
+      {
+        "id": "6e837622-1a45-4b1f-bf67-12687fa9966b",
+        "created_at": "2023-10-09T15:16:26.999Z",
+        "updated_at": "2023-10-10T09:20:06.466Z"
+      },
+      {
+        "id": "3180f296-a341-4566-a5f6-0f790f07a1da",
+        "created_at": "2023-10-09T14:33:19.180Z",
+        "updated_at": "2023-10-10T04:58:10.689Z"
+      }
+    ],
+    "market_analysis": [
+      {
+        "id": "3c3e022b-e2fb-49bc-8b97-cf5f56428238",
+        "created_at": "2023-10-10T04:44:25.441Z",
+        "updated_at": "2023-10-10T08:49:26.727Z"
+      },
+      {
+        "id": "f27fe2e1-aff0-4d97-a5b7-470eac720656",
+        "created_at": "2023-10-09T16:01:04.409Z",
+        "updated_at": "2023-10-09T11:47:53.172Z"
+      },
+      {
+        "id": "f84ee1f8-21a4-4426-a0e1-6576aa0d7eb9",
+        "created_at": "2023-10-09T11:00:43.269Z",
+        "updated_at": "2023-10-09T16:17:04.951Z"
+      },
+      {
+        "id": "15b8be3d-7eb8-4ee6-98a0-85fa552544cf",
+        "created_at": "2023-10-09T23:30:24.209Z",
+        "updated_at": "2023-10-09T12:21:51.780Z"
+      },
+      {
+        "id": "581f4a50-cbcc-4bbc-9c28-0bba3508f4c6",
+        "created_at": "2023-10-09T22:56:15.455Z",
+        "updated_at": "2023-10-10T07:36:06.176Z"
+      }
+    ],
+    "industry_trends": [
+      {
+        "id": "aa36e2c3-188b-48f0-aa7b-fd737a59eed9",
+        "created_at": "2023-10-10T06:31:21.968Z",
+        "updated_at": "2023-10-10T07:30:44.824Z"
+      },
+      {
+        "id": "5fb2b5ef-4fc0-4070-8443-e47d4eda2288",
+        "created_at": "2023-10-10T03:26:19.082Z",
+        "updated_at": "2023-10-09T10:33:39.040Z"
+      },
+      {
+        "id": "65e8edb2-5a28-41e9-a769-5de6256b2825",
+        "created_at": "2023-10-10T00:27:51.894Z",
+        "updated_at": "2023-10-10T05:53:04.171Z"
+      },
+      {
+        "id": "99d8559b-d990-4fae-be31-65ea04f3ca1f",
+        "created_at": "2023-10-10T00:39:38.817Z",
+        "updated_at": "2023-10-09T17:42:35.463Z"
+      },
+      {
+        "id": "02c633a9-37e5-432d-9672-f9ddb9004b3d",
+        "created_at": "2023-10-09T13:50:16.578Z",
+        "updated_at": "2023-10-09T20:23:55.494Z"
+      }
+    ],
+    "economic_indicators": [
+      {
+        "id": "97435090-3b8a-4154-8d6c-e30af12bb236",
+        "created_at": "2023-10-09T17:20:13.541Z",
+        "updated_at": "2023-10-10T08:37:12.065Z"
+      },
+      {
+        "id": "4f9d4609-399b-45c2-b8e4-a6b802742dd5",
+        "created_at": "2023-10-10T03:21:24.713Z",
+        "updated_at": "2023-10-09T13:12:45.665Z"
+      },
+      {
+        "id": "bddecc68-27b9-44d8-b6cd-4fa6084be722",
+        "created_at": "2023-10-09T15:21:03.829Z",
+        "updated_at": "2023-10-10T06:46:24.195Z"
+      },
+      {
+        "id": "3edb608a-3285-4877-8ca1-914d05584c15",
+        "created_at": "2023-10-10T06:16:17.009Z",
+        "updated_at": "2023-10-09T22:34:24.306Z"
+      },
+      {
+        "id": "048c712e-0192-4405-a9ab-3cccfb214852",
+        "created_at": "2023-10-10T01:36:11.802Z",
+        "updated_at": "2023-10-09T11:24:12.105Z"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "cab63312-0222-4d0e-8730-e1b966be9710",
+        "created_at": "2023-10-09T19:53:00.341Z",
+        "updated_at": "2023-10-10T07:05:30.159Z"
+      },
+      {
+        "id": "d298a163-745c-420e-8810-654275a012e4",
+        "created_at": "2023-10-09T13:57:45.178Z",
+        "updated_at": "2023-10-09T23:53:52.335Z"
+      },
+      {
+        "id": "49f0b2ef-1d6f-4ae7-af7a-ec5d19bca462",
+        "created_at": "2023-10-09T17:50:52.048Z",
+        "updated_at": "2023-10-10T04:11:48.806Z"
+      },
+      {
+        "id": "109ed3e6-817d-4a28-a09f-41cce4f28c27",
+        "created_at": "2023-10-09T17:18:53.614Z",
+        "updated_at": "2023-10-09T19:48:47.078Z"
+      },
+      {
+        "id": "74cbf025-00a5-4412-8ccd-680bf07e4ae2",
+        "created_at": "2023-10-09T16:56:00.593Z",
+        "updated_at": "2023-10-09T10:02:51.831Z"
+      }
+    ],
+    "business_statistics": [
+      {
+        "id": "fabc0139-a4f3-4cb2-8a32-13ce18a4226f",
+        "created_at": "2023-10-10T01:52:49.865Z",
+        "updated_at": "2023-10-09T17:13:26.114Z"
+      },
+      {
+        "id": "7bbe70bb-b44e-4bb0-8119-9052978e48c7",
+        "created_at": "2023-10-09T12:01:11.938Z",
+        "updated_at": "2023-10-09T17:55:44.301Z"
+      },
+      {
+        "id": "593b1d07-fab5-4a1d-bb4e-369372d332bb",
+        "created_at": "2023-10-09T22:34:33.254Z",
+        "updated_at": "2023-10-09T10:47:24.672Z"
+      },
+      {
+        "id": "88aa0280-9c58-4ee0-8e39-ffbb869395ff",
+        "created_at": "2023-10-10T03:34:51.706Z",
+        "updated_at": "2023-10-10T01:27:31.791Z"
+      },
+      {
+        "id": "2c30548e-385a-421a-a63c-d295b49ae0ca",
+        "created_at": "2023-10-09T19:44:51.025Z",
+        "updated_at": "2023-10-09T12:41:40.220Z"
+      }
+    ],
+    "business_environment": [
+      {
+        "id": "bf268a71-5844-4d76-aa2a-ef4ebcfbe57b",
+        "created_at": "2023-10-09T10:28:32.164Z",
+        "updated_at": "2023-10-09T14:03:31.702Z"
+      },
+      {
+        "id": "1d1dc9e7-9e8a-46d2-b5c5-a43f7481fd1c",
+        "created_at": "2023-10-10T00:41:35.551Z",
+        "updated_at": "2023-10-10T01:01:23.571Z"
+      },
+      {
+        "id": "16c5bb9b-438f-4ca6-9d30-99325d106a5e",
+        "created_at": "2023-10-10T05:11:47.110Z",
+        "updated_at": "2023-10-09T14:44:34.777Z"
+      },
+      {
+        "id": "e6da9d73-8370-429c-87b5-18492d089d2d",
+        "created_at": "2023-10-09T12:06:49.787Z",
+        "updated_at": "2023-10-10T04:46:38.388Z"
+      },
+      {
+        "id": "229712cd-adc2-42bb-8c19-3588afa4ef50",
+        "created_at": "2023-10-10T08:09:25.864Z",
+        "updated_at": "2023-10-09T18:23:03.154Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c6f8543e-b051-4abd-9d04-5af14dc6d99e",
+        "email": "Maudie65@roq.tech",
+        "firstName": "Cydney",
+        "lastName": "Strosin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/615.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fb7b2d64-9b44-4180-be8f-92f919af65ba",
+        "email": "Malachi.Gorczany@roq.tech",
+        "firstName": "Vallie",
+        "lastName": "Legros",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/475.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "26ff4a9a-3be1-4a84-a325-26c293077c71",
+        "email": "Amari_Renner@roq.tech",
+        "firstName": "Benny",
+        "lastName": "Watsica",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89615223",
+        "tenantId": null
+      },
+      {
+        "reference": "d142cdcc-6bb8-4b08-8935-2e69af612bf6",
+        "email": "Willa.Cruickshank@roq.tech",
+        "firstName": "Darron",
+        "lastName": "Ritchie",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/298.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fcd6e6c4-c6eb-4eca-ac87-da5721232798",
+        "email": "Adeline90@roq.tech",
+        "firstName": "Frederik",
+        "lastName": "Swaniawski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52362902",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "34c9a1ba-9eb5-433e-94dc-03b38590b144",
+        "created_at": "2023-10-09T21:22:25.215Z",
+        "updated_at": "2023-10-09T23:42:23.763Z"
+      },
+      {
+        "id": "2cabbb22-4ea3-4c75-b78d-6f684bc9539c",
+        "created_at": "2023-10-10T07:46:59.010Z",
+        "updated_at": "2023-10-10T06:00:38.028Z"
+      },
+      {
+        "id": "aa51e595-8707-4c5d-87f5-57536445f103",
+        "created_at": "2023-10-10T05:24:49.843Z",
+        "updated_at": "2023-10-10T02:03:59.505Z"
+      },
+      {
+        "id": "31c75b97-a653-4583-b969-3e1f698c53a7",
+        "created_at": "2023-10-09T17:19:02.719Z",
+        "updated_at": "2023-10-10T07:56:49.425Z"
+      },
+      {
+        "id": "ed667319-f6f4-46af-bc8b-9a7fedd31bbe",
+        "created_at": "2023-10-10T09:40:20.521Z",
+        "updated_at": "2023-10-10T01:19:20.830Z"
+      }
+    ],
+    "region": [
+      {
+        "id": "616faf1b-0530-4f4c-8d3b-af9462bd3c10",
+        "created_at": "2023-10-09T13:20:00.872Z",
+        "updated_at": "2023-10-09T23:55:50.070Z"
+      },
+      {
+        "id": "c89076d4-5376-41c2-9bfb-cf2e2a530dec",
+        "created_at": "2023-10-09T22:07:22.070Z",
+        "updated_at": "2023-10-10T04:55:40.039Z"
+      },
+      {
+        "id": "36707595-0d66-40a2-a5c1-68874a9b4675",
+        "created_at": "2023-10-09T12:28:36.281Z",
+        "updated_at": "2023-10-09T11:21:53.938Z"
+      },
+      {
+        "id": "6c3e0f68-88f8-4c7a-b270-153c949905a9",
+        "created_at": "2023-10-09T10:16:02.085Z",
+        "updated_at": "2023-10-10T01:41:36.736Z"
+      },
+      {
+        "id": "bbf86161-281b-4bf2-8357-b4a9834ba53d",
+        "created_at": "2023-10-09T14:40:44.537Z",
+        "updated_at": "2023-10-10T07:27:56.517Z"
+      }
+    ],
+    "population_growth": [
+      {
+        "id": "622cad5a-3bcd-4775-8bf0-d8704c14cf44",
+        "created_at": "2023-10-10T05:49:49.960Z",
+        "updated_at": "2023-10-10T08:40:53.240Z"
+      },
+      {
+        "id": "7947207a-b917-40c4-bb41-6441f8210a8c",
+        "created_at": "2023-10-10T07:24:39.200Z",
+        "updated_at": "2023-10-09T15:18:16.559Z"
+      },
+      {
+        "id": "a1529c15-4664-45a7-89ae-2f87e8cb5370",
+        "created_at": "2023-10-10T02:22:25.841Z",
+        "updated_at": "2023-10-10T08:26:32.605Z"
+      },
+      {
+        "id": "eeeddaa4-1616-4f61-b423-b689cc4b2bfb",
+        "created_at": "2023-10-09T10:44:26.978Z",
+        "updated_at": "2023-10-10T06:10:30.280Z"
+      },
+      {
+        "id": "68d68437-eb40-409c-a743-9d2da7a2597a",
+        "created_at": "2023-10-10T06:02:27.917Z",
+        "updated_at": "2023-10-10T00:20:54.411Z"
+      }
+    ],
+    "niche": [
+      {
+        "id": "e4cdf129-cce1-41ac-8605-c561f8c17eac",
+        "created_at": "2023-10-09T12:43:17.706Z",
+        "updated_at": "2023-10-09T14:51:58.143Z"
+      },
+      {
+        "id": "9c59bfff-d6fd-4d2d-b3c6-846b8bbe7e07",
+        "created_at": "2023-10-10T05:33:19.942Z",
+        "updated_at": "2023-10-09T13:24:53.303Z"
+      },
+      {
+        "id": "c742b54a-d6a0-4f50-957e-150594af599b",
+        "created_at": "2023-10-09T15:52:47.775Z",
+        "updated_at": "2023-10-10T00:37:59.721Z"
+      },
+      {
+        "id": "cad855e0-75cb-4908-8939-0672165c3768",
+        "created_at": "2023-10-09T12:07:10.234Z",
+        "updated_at": "2023-10-09T15:17:18.627Z"
+      },
+      {
+        "id": "8f2cefc7-4c0e-40c3-8fd2-837e4647bc4e",
+        "created_at": "2023-10-09T13:37:23.664Z",
+        "updated_at": "2023-10-09T16:00:24.567Z"
+      }
+    ],
+    "market_analysis": [
+      {
+        "id": "bd1e236b-3b85-4b22-8cd6-b64cfae77823",
+        "created_at": "2023-10-09T19:04:30.109Z",
+        "updated_at": "2023-10-10T04:41:39.411Z"
+      },
+      {
+        "id": "9738faa8-b54a-43ae-b7f9-9421d49a61b8",
+        "created_at": "2023-10-10T04:46:02.160Z",
+        "updated_at": "2023-10-09T22:28:27.128Z"
+      },
+      {
+        "id": "bf8562e2-0240-4538-ad35-c76081a518cc",
+        "created_at": "2023-10-10T07:08:59.124Z",
+        "updated_at": "2023-10-10T03:51:21.706Z"
+      },
+      {
+        "id": "1394fdee-e8b6-452b-aaee-5f1195b8e312",
+        "created_at": "2023-10-09T19:04:16.508Z",
+        "updated_at": "2023-10-10T03:07:56.006Z"
+      },
+      {
+        "id": "657583e0-3aa5-4878-bb7c-09e46d2db49d",
+        "created_at": "2023-10-10T07:14:30.943Z",
+        "updated_at": "2023-10-10T01:41:09.070Z"
+      }
+    ],
+    "industry_trends": [
+      {
+        "id": "c08f3acb-a8e7-4347-b98a-2f6e7a27bc16",
+        "created_at": "2023-10-09T11:46:08.438Z",
+        "updated_at": "2023-10-09T12:17:23.768Z"
+      },
+      {
+        "id": "954dc57d-838f-4838-9441-6a10fac9e44b",
+        "created_at": "2023-10-09T22:49:45.653Z",
+        "updated_at": "2023-10-10T02:53:46.296Z"
+      },
+      {
+        "id": "ca54a864-508e-4de6-8261-fd7be7495f16",
+        "created_at": "2023-10-09T22:25:45.860Z",
+        "updated_at": "2023-10-09T23:03:00.605Z"
+      },
+      {
+        "id": "7c020cfb-5bf2-4c8a-973b-b02fa19cb192",
+        "created_at": "2023-10-09T15:26:47.704Z",
+        "updated_at": "2023-10-10T09:44:18.439Z"
+      },
+      {
+        "id": "b04237cb-5e4b-4ecf-8450-7b6a91c75cf4",
+        "created_at": "2023-10-09T10:54:50.814Z",
+        "updated_at": "2023-10-09T18:35:53.634Z"
+      }
+    ],
+    "economic_indicators": [
+      {
+        "id": "cf84fb72-6739-40dd-83b5-f846bbd026f1",
+        "created_at": "2023-10-10T08:10:14.832Z",
+        "updated_at": "2023-10-10T08:11:10.664Z"
+      },
+      {
+        "id": "1de18655-2645-4c4b-aa5b-25acd446bed0",
+        "created_at": "2023-10-09T19:55:58.835Z",
+        "updated_at": "2023-10-09T10:01:04.735Z"
+      },
+      {
+        "id": "2ef37438-02ae-40cc-b006-cd62f88ea988",
+        "created_at": "2023-10-10T05:18:19.660Z",
+        "updated_at": "2023-10-09T21:30:29.383Z"
+      },
+      {
+        "id": "df91e719-bfd0-4914-993f-adcf0e141804",
+        "created_at": "2023-10-09T22:44:31.113Z",
+        "updated_at": "2023-10-10T08:23:40.667Z"
+      },
+      {
+        "id": "57a0aac4-7ef1-443e-9f0e-48e151ada125",
+        "created_at": "2023-10-09T12:32:02.469Z",
+        "updated_at": "2023-10-10T07:34:41.908Z"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "f2b27dba-fd70-4609-a9fd-fab70a4804ac",
+        "created_at": "2023-10-10T04:27:15.662Z",
+        "updated_at": "2023-10-10T06:30:19.784Z"
+      },
+      {
+        "id": "787a8033-ecb6-4d1f-a184-6d06736c507c",
+        "created_at": "2023-10-10T00:47:37.775Z",
+        "updated_at": "2023-10-09T17:50:01.922Z"
+      },
+      {
+        "id": "5628c115-198c-446e-a87e-f81a1fbf04b6",
+        "created_at": "2023-10-09T09:56:44.326Z",
+        "updated_at": "2023-10-09T10:15:16.944Z"
+      },
+      {
+        "id": "b46d8e87-4778-4ac8-bf52-dfc28d4f0ff4",
+        "created_at": "2023-10-09T23:15:23.622Z",
+        "updated_at": "2023-10-09T18:55:42.071Z"
+      },
+      {
+        "id": "d48fabe6-e371-48bc-8f8d-26d8e275b77d",
+        "created_at": "2023-10-10T02:42:35.556Z",
+        "updated_at": "2023-10-10T07:13:52.397Z"
+      }
+    ],
+    "business_statistics": [
+      {
+        "id": "5ede6505-c6f8-40c3-a7bb-2f4859f5f198",
+        "created_at": "2023-10-09T12:57:11.917Z",
+        "updated_at": "2023-10-10T07:06:34.844Z"
+      },
+      {
+        "id": "f614f75b-4465-446c-9dfa-65b1df3e6061",
+        "created_at": "2023-10-10T03:48:52.621Z",
+        "updated_at": "2023-10-09T14:25:50.178Z"
+      },
+      {
+        "id": "4d26132b-0b59-40e2-b048-ecf6e11d8ab5",
+        "created_at": "2023-10-09T17:13:41.382Z",
+        "updated_at": "2023-10-10T04:00:51.977Z"
+      },
+      {
+        "id": "4fe08477-8067-4647-ae9f-a863dadf3a1b",
+        "created_at": "2023-10-09T20:50:48.466Z",
+        "updated_at": "2023-10-10T03:29:40.985Z"
+      },
+      {
+        "id": "15c4166d-ab53-4931-b4e9-1ab50503f8de",
+        "created_at": "2023-10-09T23:36:39.270Z",
+        "updated_at": "2023-10-09T19:32:05.672Z"
+      }
+    ],
+    "business_environment": [
+      {
+        "id": "f224795b-4df7-4682-b1dc-33a2e324b691",
+        "created_at": "2023-10-09T21:18:26.989Z",
+        "updated_at": "2023-10-10T02:06:44.828Z"
+      },
+      {
+        "id": "53dfde31-2399-4da1-aa66-e2481a610436",
+        "created_at": "2023-10-10T06:10:48.392Z",
+        "updated_at": "2023-10-09T11:44:04.973Z"
+      },
+      {
+        "id": "d20247a7-26f8-4a7a-872f-bbab894c36b1",
+        "created_at": "2023-10-10T06:36:50.997Z",
+        "updated_at": "2023-10-10T07:28:29.425Z"
+      },
+      {
+        "id": "aa0ead18-10f9-4b1c-80f1-50b1aebd1644",
+        "created_at": "2023-10-09T12:46:41.627Z",
+        "updated_at": "2023-10-10T08:31:15.737Z"
+      },
+      {
+        "id": "da521406-5257-47d0-9149-84e77d6ce4f4",
+        "created_at": "2023-10-09T18:42:03.408Z",
+        "updated_at": "2023-10-09T10:43:40.845Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "df7f45a7-b8b1-47a3-8f0c-fb0361736a17",
+        "email": "Emory83@roq.tech",
+        "firstName": "Tony",
+        "lastName": "Dickens",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/616.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b1624f44-76fb-48a8-b7a4-6563bb851c02",
+        "email": "Lauren.Stamm@roq.tech",
+        "firstName": "Lloyd",
+        "lastName": "Gibson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/554.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ba46677a-dabe-4593-a425-045a57e94f7b",
+        "email": "Samanta.Luettgen@roq.tech",
+        "firstName": "Nellie",
+        "lastName": "Murray",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/510.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "499f6679-79ad-4518-aa82-05dbdbd8ef59",
+        "email": "Marjorie.Heidenreich@roq.tech",
+        "firstName": "Maximus",
+        "lastName": "Cole",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77929013",
+        "tenantId": null
+      },
+      {
+        "reference": "898312b2-2e80-4738-bc2a-330a7ee68021",
+        "email": "Noemy.Lang@roq.tech",
+        "firstName": "Daisha",
+        "lastName": "Bartell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1140.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "9212fcec-4676-45b0-8041-7d070af62a7f",
+        "created_at": "2023-10-10T07:44:58.200Z",
+        "updated_at": "2023-10-10T08:44:24.236Z"
+      },
+      {
+        "id": "20b361a9-3ce6-4917-a96f-a65b91904ec7",
+        "created_at": "2023-10-10T00:50:11.534Z",
+        "updated_at": "2023-10-09T17:43:36.795Z"
+      },
+      {
+        "id": "57ff0bd5-87b7-4f3c-be56-0e8688a17710",
+        "created_at": "2023-10-10T06:54:30.145Z",
+        "updated_at": "2023-10-09T23:05:47.248Z"
+      },
+      {
+        "id": "c7450cc4-cd4d-4049-b362-34fc19d35643",
+        "created_at": "2023-10-09T16:03:38.740Z",
+        "updated_at": "2023-10-10T01:53:41.768Z"
+      },
+      {
+        "id": "2261e9bf-95b3-4b88-a52b-2ca82ddff16c",
+        "created_at": "2023-10-10T06:21:16.117Z",
+        "updated_at": "2023-10-09T10:29:35.688Z"
+      }
+    ],
+    "region": [
+      {
+        "id": "50433df8-397d-4d67-af9b-9997eb8d5710",
+        "created_at": "2023-10-10T04:02:57.302Z",
+        "updated_at": "2023-10-09T15:41:00.201Z"
+      },
+      {
+        "id": "dc9b7f42-a3a0-490f-b3ac-57c2f1a8c454",
+        "created_at": "2023-10-09T19:16:43.056Z",
+        "updated_at": "2023-10-09T10:10:21.542Z"
+      },
+      {
+        "id": "ae56f86c-48f5-4e01-b57d-dc1224a9fe43",
+        "created_at": "2023-10-10T05:28:16.450Z",
+        "updated_at": "2023-10-10T01:24:10.450Z"
+      },
+      {
+        "id": "44038930-28aa-4472-b0ca-a2fafdf56197",
+        "created_at": "2023-10-09T18:32:58.287Z",
+        "updated_at": "2023-10-09T22:48:33.643Z"
+      },
+      {
+        "id": "40feb507-5459-4196-ab37-c8f28866e92c",
+        "created_at": "2023-10-09T13:45:30.704Z",
+        "updated_at": "2023-10-10T01:13:37.952Z"
+      }
+    ],
+    "population_growth": [
+      {
+        "id": "e451c994-1f17-4bbd-9688-b2e553a17361",
+        "created_at": "2023-10-10T03:03:41.590Z",
+        "updated_at": "2023-10-10T00:37:50.348Z"
+      },
+      {
+        "id": "92b5016a-f09f-4327-b5d5-2e187703c091",
+        "created_at": "2023-10-09T20:51:12.297Z",
+        "updated_at": "2023-10-10T02:22:51.007Z"
+      },
+      {
+        "id": "e33eb459-9722-42ae-afbf-c83c2f7aa197",
+        "created_at": "2023-10-09T19:38:01.504Z",
+        "updated_at": "2023-10-10T04:44:49.975Z"
+      },
+      {
+        "id": "2fe48352-711c-43ab-ac96-f61f8fb985e3",
+        "created_at": "2023-10-09T16:36:53.783Z",
+        "updated_at": "2023-10-10T07:27:14.861Z"
+      },
+      {
+        "id": "c1c57b4d-f486-4f40-854c-a202b15d27bb",
+        "created_at": "2023-10-09T19:26:00.956Z",
+        "updated_at": "2023-10-10T07:33:49.986Z"
+      }
+    ],
+    "niche": [
+      {
+        "id": "0f128ecf-1074-4e3e-9ce0-d0b85ba9d462",
+        "created_at": "2023-10-09T23:31:15.191Z",
+        "updated_at": "2023-10-10T07:58:26.381Z"
+      },
+      {
+        "id": "21be48ae-508b-41bf-bfc2-bee4d8ec88f5",
+        "created_at": "2023-10-09T20:28:35.021Z",
+        "updated_at": "2023-10-10T01:44:04.288Z"
+      },
+      {
+        "id": "946b72ee-120c-45cb-b1e4-8e7256090014",
+        "created_at": "2023-10-09T22:30:59.432Z",
+        "updated_at": "2023-10-10T00:37:22.868Z"
+      },
+      {
+        "id": "9bc98b4d-2159-430d-92d1-a5b96b0c10bd",
+        "created_at": "2023-10-09T19:39:44.670Z",
+        "updated_at": "2023-10-09T15:26:23.390Z"
+      },
+      {
+        "id": "e44c2d2f-9477-4c7b-9c83-c89437e915b8",
+        "created_at": "2023-10-10T09:23:29.254Z",
+        "updated_at": "2023-10-10T02:42:44.117Z"
+      }
+    ],
+    "market_analysis": [
+      {
+        "id": "e24d5062-17d0-454c-baa6-5b00cf1192bb",
+        "created_at": "2023-10-10T02:31:19.186Z",
+        "updated_at": "2023-10-10T05:29:18.378Z"
+      },
+      {
+        "id": "11ab1372-a0f8-4950-832d-1b36585c543f",
+        "created_at": "2023-10-10T08:01:04.606Z",
+        "updated_at": "2023-10-09T15:06:39.887Z"
+      },
+      {
+        "id": "69745172-b719-47f3-bcae-cc0dc55d1a79",
+        "created_at": "2023-10-09T14:29:10.236Z",
+        "updated_at": "2023-10-10T03:04:09.570Z"
+      },
+      {
+        "id": "0cca01ec-3483-4510-8805-c5db7c5066e8",
+        "created_at": "2023-10-09T18:41:30.435Z",
+        "updated_at": "2023-10-10T05:03:24.817Z"
+      },
+      {
+        "id": "00c24427-7edf-4ba3-b1b3-d967ba751110",
+        "created_at": "2023-10-10T08:58:37.891Z",
+        "updated_at": "2023-10-10T07:06:41.457Z"
+      }
+    ],
+    "industry_trends": [
+      {
+        "id": "f4b3689c-a002-4d0e-a069-24f4d8507af5",
+        "created_at": "2023-10-10T02:48:14.478Z",
+        "updated_at": "2023-10-10T08:18:37.804Z"
+      },
+      {
+        "id": "cdc0c553-5d0f-4b19-b8ec-02196ac1056b",
+        "created_at": "2023-10-09T11:20:38.935Z",
+        "updated_at": "2023-10-09T21:35:53.309Z"
+      },
+      {
+        "id": "b786d198-ceaf-4a13-85ee-d6167ef53f07",
+        "created_at": "2023-10-10T08:26:05.643Z",
+        "updated_at": "2023-10-10T03:47:33.924Z"
+      },
+      {
+        "id": "62ea8e62-31b8-4c65-87dc-c81ff8bd2d71",
+        "created_at": "2023-10-09T18:19:46.323Z",
+        "updated_at": "2023-10-09T22:55:48.328Z"
+      },
+      {
+        "id": "9418ae3b-b900-447a-a610-4282625a5e53",
+        "created_at": "2023-10-10T07:22:08.555Z",
+        "updated_at": "2023-10-10T01:54:51.095Z"
+      }
+    ],
+    "economic_indicators": [
+      {
+        "id": "f5b95cc2-b939-4a52-852b-402b6c5a1af5",
+        "created_at": "2023-10-10T07:30:01.442Z",
+        "updated_at": "2023-10-09T13:09:26.826Z"
+      },
+      {
+        "id": "f1e0f708-4c12-467f-a939-411f812bfade",
+        "created_at": "2023-10-09T16:37:33.196Z",
+        "updated_at": "2023-10-10T05:52:16.984Z"
+      },
+      {
+        "id": "08f86ae7-93bc-4ce5-87a5-e5382d5e4b4c",
+        "created_at": "2023-10-10T08:51:13.459Z",
+        "updated_at": "2023-10-10T03:27:03.942Z"
+      },
+      {
+        "id": "6ebadd6f-bf98-42d6-b14e-bbeea38ff7d9",
+        "created_at": "2023-10-09T10:07:15.185Z",
+        "updated_at": "2023-10-10T00:42:53.458Z"
+      },
+      {
+        "id": "6f5d1cdc-604e-4b37-8104-18daea85d765",
+        "created_at": "2023-10-09T12:57:16.312Z",
+        "updated_at": "2023-10-09T15:20:09.022Z"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "a387c335-be85-467f-92e7-e7292e82f512",
+        "created_at": "2023-10-10T05:39:04.417Z",
+        "updated_at": "2023-10-10T02:41:36.121Z"
+      },
+      {
+        "id": "d08ceb28-3065-4a78-9364-a0cfc70aa370",
+        "created_at": "2023-10-09T19:49:39.547Z",
+        "updated_at": "2023-10-10T04:52:01.616Z"
+      },
+      {
+        "id": "6a268eb9-6503-4e5b-a4a3-ca756de8e654",
+        "created_at": "2023-10-09T11:54:04.906Z",
+        "updated_at": "2023-10-10T06:37:47.774Z"
+      },
+      {
+        "id": "10c4afca-d659-479d-aede-604cd82faed5",
+        "created_at": "2023-10-09T21:13:42.478Z",
+        "updated_at": "2023-10-09T12:46:27.969Z"
+      },
+      {
+        "id": "d956e00d-01f6-4758-ac3d-89fa3d0fa46a",
+        "created_at": "2023-10-10T06:02:32.764Z",
+        "updated_at": "2023-10-09T18:59:28.209Z"
+      }
+    ],
+    "business_statistics": [
+      {
+        "id": "4c501f47-24ea-486e-a303-463191d8da3a",
+        "created_at": "2023-10-10T06:23:16.371Z",
+        "updated_at": "2023-10-09T10:30:53.284Z"
+      },
+      {
+        "id": "5e6790a6-2981-4015-a0a9-49899f885f7c",
+        "created_at": "2023-10-09T16:52:18.182Z",
+        "updated_at": "2023-10-09T21:29:04.985Z"
+      },
+      {
+        "id": "3d3b366b-534f-41ea-b5d9-6e64253b0a58",
+        "created_at": "2023-10-10T01:45:16.879Z",
+        "updated_at": "2023-10-09T20:21:35.335Z"
+      },
+      {
+        "id": "65358fab-f9a6-44de-85f3-c4f342717b63",
+        "created_at": "2023-10-09T15:27:15.370Z",
+        "updated_at": "2023-10-09T18:12:45.603Z"
+      },
+      {
+        "id": "e3d62465-b15b-4433-a28a-00d0d0530304",
+        "created_at": "2023-10-10T05:32:48.667Z",
+        "updated_at": "2023-10-09T18:54:30.592Z"
+      }
+    ],
+    "business_environment": [
+      {
+        "id": "5d4e8d00-7716-45c6-8127-c5f2b56c0245",
+        "created_at": "2023-10-10T09:29:17.948Z",
+        "updated_at": "2023-10-09T13:05:11.025Z"
+      },
+      {
+        "id": "b7d883ae-5077-4d33-a7d9-dd6e38975348",
+        "created_at": "2023-10-09T10:49:50.547Z",
+        "updated_at": "2023-10-09T22:18:25.590Z"
+      },
+      {
+        "id": "6668457b-1f6c-4f18-8fae-c56f05fbbacb",
+        "created_at": "2023-10-10T02:07:32.176Z",
+        "updated_at": "2023-10-09T11:14:31.778Z"
+      },
+      {
+        "id": "d624bfcc-2bd9-45ae-b2de-b0592658b5ac",
+        "created_at": "2023-10-10T03:07:02.312Z",
+        "updated_at": "2023-10-10T00:46:42.137Z"
+      },
+      {
+        "id": "e1fc3f71-e63b-4062-887d-7519c0b2a4d1",
+        "created_at": "2023-10-10T00:05:28.177Z",
+        "updated_at": "2023-10-09T11:45:04.220Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "22cd6622-f619-4d0e-bdc2-92a7ca9845c3",
+        "email": "Hipolito_Hane14@roq.tech",
+        "firstName": "Makayla",
+        "lastName": "Bins",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/864.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "216a3ad2-eb99-40b9-af5c-7063ae2b5b2e",
+        "email": "Rhianna.Grimes@roq.tech",
+        "firstName": "Kendrick",
+        "lastName": "Connelly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/42.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6dd57001-f743-4ee9-aa69-fc78d932346a",
+        "email": "Emilie.Wisoky@roq.tech",
+        "firstName": "Howard",
+        "lastName": "Hintz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/141.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e59f2726-c614-4a42-b103-02b5db86f48e",
+        "email": "Taryn90@roq.tech",
+        "firstName": "Ebony",
+        "lastName": "Anderson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/724.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "297806c9-53c3-454e-9db9-dc58bf11055d",
+        "email": "Franco14@roq.tech",
+        "firstName": "Frederic",
+        "lastName": "Walker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/725.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "7748291e-555b-4289-a2d6-3ecf00946751",
+        "created_at": "2023-10-10T01:05:34.131Z",
+        "updated_at": "2023-10-09T16:30:17.728Z"
+      },
+      {
+        "id": "21fd30a4-35bb-4655-8f86-6fc7b70e2112",
+        "created_at": "2023-10-10T02:07:08.744Z",
+        "updated_at": "2023-10-09T19:09:25.255Z"
+      },
+      {
+        "id": "3823f9b8-2750-42d5-a62a-306fe3b24296",
+        "created_at": "2023-10-09T13:18:45.841Z",
+        "updated_at": "2023-10-10T06:32:36.988Z"
+      },
+      {
+        "id": "b01db19d-1f74-47c6-b560-cb53e367b4eb",
+        "created_at": "2023-10-09T23:34:34.307Z",
+        "updated_at": "2023-10-10T06:40:15.478Z"
+      },
+      {
+        "id": "e54ecf8e-0fbc-4c26-9d95-03365fad0353",
+        "created_at": "2023-10-10T05:03:15.252Z",
+        "updated_at": "2023-10-10T06:05:37.249Z"
+      }
+    ],
+    "region": [
+      {
+        "id": "32ed6471-a8b3-47c5-a669-c6b0e01f83e9",
+        "created_at": "2023-10-09T18:11:33.628Z",
+        "updated_at": "2023-10-10T06:15:25.752Z"
+      },
+      {
+        "id": "b81b0399-6d65-4166-a547-607a3d1a81fd",
+        "created_at": "2023-10-09T14:38:03.064Z",
+        "updated_at": "2023-10-10T07:17:50.427Z"
+      },
+      {
+        "id": "f70f8aef-75de-416e-9b08-72e76683dc1e",
+        "created_at": "2023-10-09T15:54:14.504Z",
+        "updated_at": "2023-10-10T03:09:53.759Z"
+      },
+      {
+        "id": "3f5c3417-c5e0-461a-b65a-6302918d9cbf",
+        "created_at": "2023-10-10T07:42:05.166Z",
+        "updated_at": "2023-10-09T19:31:28.203Z"
+      },
+      {
+        "id": "832c0b7b-42a0-4dc1-aa40-46078ab5719d",
+        "created_at": "2023-10-10T07:27:32.261Z",
+        "updated_at": "2023-10-10T03:25:51.651Z"
+      }
+    ],
+    "population_growth": [
+      {
+        "id": "846f6436-9648-4761-b63c-f95cba50d3e5",
+        "created_at": "2023-10-10T00:49:45.148Z",
+        "updated_at": "2023-10-10T02:25:11.031Z"
+      },
+      {
+        "id": "421aa6e8-84c6-475f-938e-b61ca8cde761",
+        "created_at": "2023-10-10T00:47:46.339Z",
+        "updated_at": "2023-10-10T06:06:26.849Z"
+      },
+      {
+        "id": "f62dbbb7-1020-4960-8a71-b993f965f9cc",
+        "created_at": "2023-10-10T06:01:17.761Z",
+        "updated_at": "2023-10-10T02:14:09.080Z"
+      },
+      {
+        "id": "4cf8bde5-2963-4499-bd49-7537fdc5b130",
+        "created_at": "2023-10-09T14:52:25.636Z",
+        "updated_at": "2023-10-10T03:37:33.138Z"
+      },
+      {
+        "id": "284f7d1f-ff29-4ce5-a15c-eaa279f2e82a",
+        "created_at": "2023-10-09T13:53:46.196Z",
+        "updated_at": "2023-10-10T08:06:04.432Z"
+      }
+    ],
+    "niche": [
+      {
+        "id": "5b728254-275b-4ea9-a2da-57d20c03daf3",
+        "created_at": "2023-10-09T18:51:29.442Z",
+        "updated_at": "2023-10-10T04:49:24.555Z"
+      },
+      {
+        "id": "cac6fba5-3067-4b7a-9592-be889093ea28",
+        "created_at": "2023-10-10T07:11:36.398Z",
+        "updated_at": "2023-10-09T14:36:51.903Z"
+      },
+      {
+        "id": "f90f557f-1d8d-489f-a72b-1d91a2eb1915",
+        "created_at": "2023-10-09T11:52:49.086Z",
+        "updated_at": "2023-10-09T20:42:33.057Z"
+      },
+      {
+        "id": "5fefd35f-ff54-425b-b875-bb90029487e1",
+        "created_at": "2023-10-09T09:54:54.204Z",
+        "updated_at": "2023-10-09T13:19:57.330Z"
+      },
+      {
+        "id": "1daf160a-773c-4ca8-a349-2a4a162d15da",
+        "created_at": "2023-10-09T21:14:31.509Z",
+        "updated_at": "2023-10-10T03:14:48.954Z"
+      }
+    ],
+    "market_analysis": [
+      {
+        "id": "545f39ce-958c-403c-ad03-148d27eab3ee",
+        "created_at": "2023-10-10T02:05:36.049Z",
+        "updated_at": "2023-10-10T03:06:02.475Z"
+      },
+      {
+        "id": "42139db0-53b7-4dd8-95eb-bde1a5e7cb20",
+        "created_at": "2023-10-09T23:43:56.872Z",
+        "updated_at": "2023-10-10T04:42:18.742Z"
+      },
+      {
+        "id": "5c6abf94-0a76-45f2-b580-3bc2b5fcb38a",
+        "created_at": "2023-10-10T01:07:50.745Z",
+        "updated_at": "2023-10-09T17:43:17.657Z"
+      },
+      {
+        "id": "c98e42f2-2601-426b-8144-0b540226adfa",
+        "created_at": "2023-10-10T02:36:59.686Z",
+        "updated_at": "2023-10-09T19:40:08.857Z"
+      },
+      {
+        "id": "ebe3510a-f0d8-440d-a437-60fdeb7f0e3c",
+        "created_at": "2023-10-10T03:51:44.700Z",
+        "updated_at": "2023-10-09T18:18:33.860Z"
+      }
+    ],
+    "industry_trends": [
+      {
+        "id": "4c9fc42e-87a5-4b17-8978-7fcde0ff233d",
+        "created_at": "2023-10-10T05:25:27.066Z",
+        "updated_at": "2023-10-09T12:15:32.377Z"
+      },
+      {
+        "id": "620df854-5ed9-4d23-b118-bd82771de1d0",
+        "created_at": "2023-10-10T01:32:51.771Z",
+        "updated_at": "2023-10-10T05:47:20.288Z"
+      },
+      {
+        "id": "86dd25b1-8aaa-4d91-8341-d73bc7a6a57e",
+        "created_at": "2023-10-09T19:06:03.315Z",
+        "updated_at": "2023-10-10T06:56:19.777Z"
+      },
+      {
+        "id": "e95b11a6-8ce7-49d3-9308-a1a60bf4bb95",
+        "created_at": "2023-10-10T01:02:05.052Z",
+        "updated_at": "2023-10-10T01:01:46.856Z"
+      },
+      {
+        "id": "6b352dfe-729c-4670-a19e-416c656b0ca9",
+        "created_at": "2023-10-10T06:33:38.168Z",
+        "updated_at": "2023-10-09T22:04:02.920Z"
+      }
+    ],
+    "economic_indicators": [
+      {
+        "id": "fa9c5a79-463c-4235-a3e7-557ff9f6a46e",
+        "created_at": "2023-10-10T05:34:55.165Z",
+        "updated_at": "2023-10-09T15:58:34.290Z"
+      },
+      {
+        "id": "3aa9ac50-2b6c-4b21-b110-2f876344c595",
+        "created_at": "2023-10-09T10:26:39.382Z",
+        "updated_at": "2023-10-10T09:24:48.527Z"
+      },
+      {
+        "id": "afd75457-88f9-44bc-aa53-9b750998a70b",
+        "created_at": "2023-10-09T13:49:13.323Z",
+        "updated_at": "2023-10-09T11:32:35.093Z"
+      },
+      {
+        "id": "5ecdf4fb-85e1-4d38-b372-23f25775ac1f",
+        "created_at": "2023-10-10T02:14:01.250Z",
+        "updated_at": "2023-10-09T17:28:52.862Z"
+      },
+      {
+        "id": "031177e0-c2a6-48ac-a5d2-be94596c01a4",
+        "created_at": "2023-10-10T06:36:24.870Z",
+        "updated_at": "2023-10-09T18:01:55.750Z"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "6f53edb1-fc30-46c0-89cd-723ef1d8de3d",
+        "created_at": "2023-10-10T05:37:42.385Z",
+        "updated_at": "2023-10-10T09:10:30.356Z"
+      },
+      {
+        "id": "edb080ad-0add-41b8-a050-7be18e09e49f",
+        "created_at": "2023-10-09T15:11:56.968Z",
+        "updated_at": "2023-10-10T02:38:39.814Z"
+      },
+      {
+        "id": "b7f063e6-4257-4a06-ab85-a691e1c5faa9",
+        "created_at": "2023-10-10T03:19:41.297Z",
+        "updated_at": "2023-10-09T13:56:33.649Z"
+      },
+      {
+        "id": "bfa9b189-b238-498a-89dc-11880d9446e6",
+        "created_at": "2023-10-09T13:04:39.470Z",
+        "updated_at": "2023-10-10T04:47:09.791Z"
+      },
+      {
+        "id": "8e872314-2cd0-4484-a7a7-b78b8c8a2190",
+        "created_at": "2023-10-09T15:10:21.264Z",
+        "updated_at": "2023-10-09T22:33:29.256Z"
+      }
+    ],
+    "business_statistics": [
+      {
+        "id": "4f75a648-7884-4f5a-bd42-fc0e146de812",
+        "created_at": "2023-10-10T09:02:15.739Z",
+        "updated_at": "2023-10-09T22:24:58.440Z"
+      },
+      {
+        "id": "5027bdc3-38b9-40df-bcd8-fa558a9bb465",
+        "created_at": "2023-10-09T21:53:05.028Z",
+        "updated_at": "2023-10-10T04:30:55.655Z"
+      },
+      {
+        "id": "d9285925-a3f3-4c04-b5e2-8409cd611ae1",
+        "created_at": "2023-10-09T16:31:30.454Z",
+        "updated_at": "2023-10-09T13:55:41.147Z"
+      },
+      {
+        "id": "46b90f00-07a9-4a32-accf-a4a19317bd12",
+        "created_at": "2023-10-09T11:05:21.058Z",
+        "updated_at": "2023-10-09T22:43:45.203Z"
+      },
+      {
+        "id": "7482a515-b519-4f5c-b182-af5c7a67f6e0",
+        "created_at": "2023-10-10T07:54:31.030Z",
+        "updated_at": "2023-10-09T12:49:21.569Z"
+      }
+    ],
+    "business_environment": [
+      {
+        "id": "24a02b51-e2f4-4280-8b6a-dffbe3a23201",
+        "created_at": "2023-10-10T09:23:07.174Z",
+        "updated_at": "2023-10-10T00:51:41.362Z"
+      },
+      {
+        "id": "2b44119b-c260-46da-8073-3acc246dd4f2",
+        "created_at": "2023-10-09T17:17:08.287Z",
+        "updated_at": "2023-10-10T09:26:56.490Z"
+      },
+      {
+        "id": "59ba0313-052f-436a-ab6d-4e90dc23c44c",
+        "created_at": "2023-10-09T22:59:32.549Z",
+        "updated_at": "2023-10-09T20:01:46.073Z"
+      },
+      {
+        "id": "fd31731e-ce08-4958-941d-f989203c4cdb",
+        "created_at": "2023-10-09T19:50:21.246Z",
+        "updated_at": "2023-10-09T20:53:24.844Z"
+      },
+      {
+        "id": "d4a7548a-b561-44c5-ad85-a94f9f25b1b2",
+        "created_at": "2023-10-10T00:49:58.697Z",
+        "updated_at": "2023-10-09T23:50:12.390Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d4e26c90-0295-4813-a7cd-0c170a73122d",
+        "email": "Barrett59@roq.tech",
+        "firstName": "Carlos",
+        "lastName": "Waters",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8160557",
+        "tenantId": null
+      },
+      {
+        "reference": "cebda006-eacb-43c8-bc35-81412e53c61a",
+        "email": "Norwood.Hansen15@roq.tech",
+        "firstName": "Quinn",
+        "lastName": "Skiles-Graham",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/899.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0060b90c-2bfd-4289-87b1-4d1a3026595f",
+        "email": "Eloise_McCullough@roq.tech",
+        "firstName": "Janis",
+        "lastName": "Schaefer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/839.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "83277c0a-b9e3-4338-bbc0-81f1033e70da",
+        "email": "Marianna_Yundt@roq.tech",
+        "firstName": "Genevieve",
+        "lastName": "Howell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1111.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bf33afef-2372-4d1d-97fc-84e5d9950869",
+        "email": "Stefan.Brakus13@roq.tech",
+        "firstName": "Braeden",
+        "lastName": "Boehm",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65515481",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "ea330ebd-ff0e-410a-8b28-1f40c2169edf",
+        "created_at": "2023-10-10T01:59:59.825Z",
+        "updated_at": "2023-10-09T13:59:23.357Z"
+      },
+      {
+        "id": "a459c1dd-7970-4003-abe4-3cd772eaf333",
+        "created_at": "2023-10-09T13:07:03.457Z",
+        "updated_at": "2023-10-09T10:38:43.543Z"
+      },
+      {
+        "id": "fb25022a-cb1d-41dc-adf0-a31f774670e6",
+        "created_at": "2023-10-10T05:13:35.734Z",
+        "updated_at": "2023-10-09T19:52:14.548Z"
+      },
+      {
+        "id": "684558a4-dea5-44ae-9409-c2093c15b67b",
+        "created_at": "2023-10-09T21:52:54.736Z",
+        "updated_at": "2023-10-09T16:27:55.057Z"
+      },
+      {
+        "id": "be875b13-a5a7-46dc-b6ca-acdcbacb0129",
+        "created_at": "2023-10-09T12:14:53.555Z",
+        "updated_at": "2023-10-09T17:24:59.196Z"
+      }
+    ],
+    "region": [
+      {
+        "id": "74e04eb8-e050-441d-9205-82f68cdb2a94",
+        "created_at": "2023-10-10T07:25:07.074Z",
+        "updated_at": "2023-10-09T20:26:15.545Z"
+      },
+      {
+        "id": "e5f7ee38-2c05-451d-bfc9-12c16ff8fb3c",
+        "created_at": "2023-10-09T16:59:54.453Z",
+        "updated_at": "2023-10-09T20:28:47.793Z"
+      },
+      {
+        "id": "f50ecd72-d040-46b3-826d-fd5cd1c9f1ce",
+        "created_at": "2023-10-09T16:03:26.680Z",
+        "updated_at": "2023-10-09T18:49:26.559Z"
+      },
+      {
+        "id": "eb8457b2-eed0-439a-8042-5bbfe4ef8857",
+        "created_at": "2023-10-10T07:38:25.381Z",
+        "updated_at": "2023-10-10T03:52:07.085Z"
+      },
+      {
+        "id": "508effa3-ebbc-49e2-b789-74087640ace8",
+        "created_at": "2023-10-10T03:13:01.160Z",
+        "updated_at": "2023-10-09T13:57:27.073Z"
+      }
+    ],
+    "population_growth": [
+      {
+        "id": "e0bb283b-da0a-4f0f-861a-de4ea0700d0d",
+        "created_at": "2023-10-09T22:52:56.527Z",
+        "updated_at": "2023-10-10T09:03:27.066Z"
+      },
+      {
+        "id": "9dbb2a0c-7407-41ed-9958-c8784ac1caa3",
+        "created_at": "2023-10-09T10:57:55.049Z",
+        "updated_at": "2023-10-09T23:42:29.271Z"
+      },
+      {
+        "id": "cc2f58bf-1421-4b40-a27f-e37b08d3b8a4",
+        "created_at": "2023-10-09T14:12:30.680Z",
+        "updated_at": "2023-10-10T03:45:21.545Z"
+      },
+      {
+        "id": "8dd06706-2e16-45ea-b495-34fc4c97e3b2",
+        "created_at": "2023-10-09T22:22:09.761Z",
+        "updated_at": "2023-10-09T18:14:45.477Z"
+      },
+      {
+        "id": "1b63ed7f-7f08-4034-994e-40f873f6c85d",
+        "created_at": "2023-10-10T01:23:39.380Z",
+        "updated_at": "2023-10-09T22:53:51.917Z"
+      }
+    ],
+    "niche": [
+      {
+        "id": "eb21a16b-4774-484b-bad0-b7a6c42245b0",
+        "created_at": "2023-10-10T07:08:54.289Z",
+        "updated_at": "2023-10-10T06:50:12.442Z"
+      },
+      {
+        "id": "6da80572-5557-44bb-a8bd-eb84983c1b9b",
+        "created_at": "2023-10-09T23:29:48.273Z",
+        "updated_at": "2023-10-09T11:49:36.262Z"
+      },
+      {
+        "id": "d1590886-1b0a-4edb-ab31-47dd39554e3c",
+        "created_at": "2023-10-10T06:41:59.673Z",
+        "updated_at": "2023-10-09T18:25:14.475Z"
+      },
+      {
+        "id": "fa3a239e-11c9-458a-bf14-0f43ff306e86",
+        "created_at": "2023-10-09T19:57:37.793Z",
+        "updated_at": "2023-10-09T17:13:36.564Z"
+      },
+      {
+        "id": "49d6aec5-74dc-4da9-8148-3507e3f74651",
+        "created_at": "2023-10-09T10:05:54.058Z",
+        "updated_at": "2023-10-09T16:13:06.682Z"
+      }
+    ],
+    "market_analysis": [
+      {
+        "id": "9511ce12-6526-4cca-950c-63ae6f3485bd",
+        "created_at": "2023-10-10T09:07:35.753Z",
+        "updated_at": "2023-10-10T06:27:17.120Z"
+      },
+      {
+        "id": "f84d233f-5cf1-4d0f-b89c-55df7e2c6008",
+        "created_at": "2023-10-10T05:37:59.996Z",
+        "updated_at": "2023-10-10T08:38:53.201Z"
+      },
+      {
+        "id": "c2b4e6c9-279e-4426-b76f-2345297d9788",
+        "created_at": "2023-10-10T06:41:56.981Z",
+        "updated_at": "2023-10-10T07:16:36.355Z"
+      },
+      {
+        "id": "64fd9ac3-8621-4456-8ea4-a540ef78656f",
+        "created_at": "2023-10-10T00:40:53.680Z",
+        "updated_at": "2023-10-09T10:41:06.908Z"
+      },
+      {
+        "id": "40c14fdf-529f-46f1-8140-c8bafe35597b",
+        "created_at": "2023-10-09T23:35:08.239Z",
+        "updated_at": "2023-10-09T18:55:09.600Z"
+      }
+    ],
+    "industry_trends": [
+      {
+        "id": "7a166f18-d89c-4849-94a9-040f161a4a7e",
+        "created_at": "2023-10-10T05:21:48.306Z",
+        "updated_at": "2023-10-09T19:25:56.390Z"
+      },
+      {
+        "id": "571e518d-1010-448e-b7cb-419ab514f3b0",
+        "created_at": "2023-10-09T13:21:13.458Z",
+        "updated_at": "2023-10-09T16:06:32.904Z"
+      },
+      {
+        "id": "318ddabb-792f-4c99-91a9-0cb93f043a8f",
+        "created_at": "2023-10-10T01:47:12.114Z",
+        "updated_at": "2023-10-10T06:56:27.048Z"
+      },
+      {
+        "id": "20d3865f-7ad9-467d-9473-46fff1c46acb",
+        "created_at": "2023-10-10T09:25:47.043Z",
+        "updated_at": "2023-10-10T06:55:18.883Z"
+      },
+      {
+        "id": "358f6389-4190-4ed1-8aa8-a749132b5bc4",
+        "created_at": "2023-10-10T09:14:18.420Z",
+        "updated_at": "2023-10-09T17:11:37.858Z"
+      }
+    ],
+    "economic_indicators": [
+      {
+        "id": "598096f9-5e97-4e61-b70c-0239ce1407a6",
+        "created_at": "2023-10-09T13:32:22.492Z",
+        "updated_at": "2023-10-09T15:38:12.059Z"
+      },
+      {
+        "id": "993335ca-a03c-4dac-9430-ab5b27e61ff1",
+        "created_at": "2023-10-10T05:08:30.287Z",
+        "updated_at": "2023-10-09T23:46:00.954Z"
+      },
+      {
+        "id": "7e9ede9f-9ce0-4cf1-a652-85c069d7d09e",
+        "created_at": "2023-10-10T06:07:41.429Z",
+        "updated_at": "2023-10-10T05:33:43.554Z"
+      },
+      {
+        "id": "3edf98d9-8124-420c-aa3c-507ca46c0687",
+        "created_at": "2023-10-09T18:10:58.324Z",
+        "updated_at": "2023-10-09T23:16:24.516Z"
+      },
+      {
+        "id": "382b79a8-129d-4f0d-b8a8-c45a0de6ffe7",
+        "created_at": "2023-10-09T10:40:43.446Z",
+        "updated_at": "2023-10-09T10:56:20.996Z"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "31ec7e59-7989-4655-8cec-6571596987e9",
+        "created_at": "2023-10-09T15:01:44.540Z",
+        "updated_at": "2023-10-10T09:07:41.779Z"
+      },
+      {
+        "id": "aa48adbf-d2d9-4cf5-a44a-8103b245f519",
+        "created_at": "2023-10-09T21:39:47.142Z",
+        "updated_at": "2023-10-09T21:55:36.369Z"
+      },
+      {
+        "id": "1cce7c64-6c87-4118-bf39-2b8f078c4ac9",
+        "created_at": "2023-10-09T14:18:48.570Z",
+        "updated_at": "2023-10-10T08:39:14.566Z"
+      },
+      {
+        "id": "d71a0612-981b-477b-88f7-b2b0e91e4452",
+        "created_at": "2023-10-09T22:17:47.766Z",
+        "updated_at": "2023-10-10T04:34:04.212Z"
+      },
+      {
+        "id": "951ab80a-fb37-4e38-a346-c134518a14ff",
+        "created_at": "2023-10-09T15:33:01.653Z",
+        "updated_at": "2023-10-09T21:34:57.976Z"
+      }
+    ],
+    "business_statistics": [
+      {
+        "id": "99ea3da3-3a23-4617-8133-4907717db6b8",
+        "created_at": "2023-10-10T07:32:56.563Z",
+        "updated_at": "2023-10-10T03:04:15.694Z"
+      },
+      {
+        "id": "6b56dda1-cd7d-4855-b7f3-9163a7c3ed86",
+        "created_at": "2023-10-09T10:17:29.805Z",
+        "updated_at": "2023-10-10T02:28:49.047Z"
+      },
+      {
+        "id": "7f23fa94-8bc0-4dfd-b9e5-ee9fc41412c9",
+        "created_at": "2023-10-10T06:12:07.642Z",
+        "updated_at": "2023-10-10T00:54:27.604Z"
+      },
+      {
+        "id": "5c5b7393-a521-461c-992d-e21be8d56131",
+        "created_at": "2023-10-09T20:36:44.082Z",
+        "updated_at": "2023-10-09T12:46:27.971Z"
+      },
+      {
+        "id": "757877fa-e647-4413-8d1e-4c3d49d61e49",
+        "created_at": "2023-10-10T09:34:30.214Z",
+        "updated_at": "2023-10-10T04:25:49.221Z"
+      }
+    ],
+    "business_environment": [
+      {
+        "id": "b32b5ee8-e51f-4d5d-a1e5-5fc969cdc15c",
+        "created_at": "2023-10-09T17:27:55.543Z",
+        "updated_at": "2023-10-09T17:11:09.386Z"
+      },
+      {
+        "id": "6902c7a8-cfd3-437c-8c84-5dd6c080893c",
+        "created_at": "2023-10-09T13:58:37.745Z",
+        "updated_at": "2023-10-09T11:51:38.481Z"
+      },
+      {
+        "id": "1903d447-af97-47dc-9b9a-c5b08754ca3c",
+        "created_at": "2023-10-10T08:38:50.968Z",
+        "updated_at": "2023-10-10T03:45:50.975Z"
+      },
+      {
+        "id": "7c545172-4b7e-40fc-8c06-5d0a4364865b",
+        "created_at": "2023-10-09T19:47:42.585Z",
+        "updated_at": "2023-10-09T12:06:44.966Z"
+      },
+      {
+        "id": "26778fc2-6ace-4070-8f82-336668fa55c5",
+        "created_at": "2023-10-09T20:20:38.770Z",
+        "updated_at": "2023-10-09T19:00:14.682Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "4e2a8dc1-80b3-4385-9f74-a8c8cb7cb531",
+        "email": "Shanon_Rice@roq.tech",
+        "firstName": "Rubie",
+        "lastName": "Crona",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52788834",
+        "tenantId": null
+      },
+      {
+        "reference": "e9693a1b-a2b0-45b2-83f4-985de905b029",
+        "email": "Edgardo8@roq.tech",
+        "firstName": "Pierce",
+        "lastName": "Kerluke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13689107",
+        "tenantId": null
+      },
+      {
+        "reference": "ac6d542e-4e23-4fe0-89b3-1c7e6d1ae60b",
+        "email": "Dalton_Lebsack@roq.tech",
+        "firstName": "Maurine",
+        "lastName": "Adams",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32943517",
+        "tenantId": null
+      },
+      {
+        "reference": "d97e5c9e-4a4c-4366-b6f0-8863cc073e33",
+        "email": "Gaetano.Daniel96@roq.tech",
+        "firstName": "Russell",
+        "lastName": "Wyman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52183562",
+        "tenantId": null
+      },
+      {
+        "reference": "7b8d4c47-51c4-4503-b8ac-3255c98b6df3",
+        "email": "Cleo78@roq.tech",
+        "firstName": "Sarina",
+        "lastName": "Johns",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/876.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "4133088f-6e89-4f55-bc9c-a1d88dd207ee",
+        "created_at": "2023-10-10T08:42:30.926Z",
+        "updated_at": "2023-10-10T01:11:07.487Z"
+      },
+      {
+        "id": "7b893ad9-22ff-49b4-bee7-d9296ce78cb5",
+        "created_at": "2023-10-09T21:52:59.445Z",
+        "updated_at": "2023-10-10T02:19:46.664Z"
+      },
+      {
+        "id": "7f9460cb-cb74-46eb-8e50-9bce62c654a0",
+        "created_at": "2023-10-10T08:12:09.211Z",
+        "updated_at": "2023-10-10T07:00:00.353Z"
+      },
+      {
+        "id": "faecb3f6-f50b-4f6f-b38d-2433c84c6412",
+        "created_at": "2023-10-09T14:48:35.976Z",
+        "updated_at": "2023-10-10T08:34:10.161Z"
+      },
+      {
+        "id": "9c645b00-abe8-4f2d-9ff6-03c45ae0c96b",
+        "created_at": "2023-10-09T12:05:37.028Z",
+        "updated_at": "2023-10-09T16:55:51.959Z"
+      }
+    ],
+    "region": [
+      {
+        "id": "97877bba-f20e-4b1c-a996-15667a9952e4",
+        "created_at": "2023-10-09T19:00:17.036Z",
+        "updated_at": "2023-10-10T03:05:42.660Z"
+      },
+      {
+        "id": "0205c295-964c-4be5-a643-5ff9039036d4",
+        "created_at": "2023-10-09T15:17:28.047Z",
+        "updated_at": "2023-10-09T23:54:38.193Z"
+      },
+      {
+        "id": "1a443e0d-ef78-4533-9a59-2d11314f44f6",
+        "created_at": "2023-10-09T13:33:33.512Z",
+        "updated_at": "2023-10-10T08:22:50.597Z"
+      },
+      {
+        "id": "2f529c4c-5e2b-465e-b0b7-54bd5a165b5e",
+        "created_at": "2023-10-10T09:33:34.789Z",
+        "updated_at": "2023-10-10T09:13:20.305Z"
+      },
+      {
+        "id": "74d19c4d-27d2-41ee-9b81-051c893adb0e",
+        "created_at": "2023-10-10T04:30:24.214Z",
+        "updated_at": "2023-10-10T04:24:52.791Z"
+      }
+    ],
+    "population_growth": [
+      {
+        "id": "5a5bfab7-c255-4fc5-9ee7-d1765bccbf86",
+        "created_at": "2023-10-10T07:26:31.446Z",
+        "updated_at": "2023-10-09T17:45:11.296Z"
+      },
+      {
+        "id": "552242e6-cfa8-4f77-b3d4-4812bb252b1a",
+        "created_at": "2023-10-10T00:35:43.220Z",
+        "updated_at": "2023-10-09T19:55:53.321Z"
+      },
+      {
+        "id": "5d76633d-4121-4772-afcc-674aaf7f6a6b",
+        "created_at": "2023-10-09T22:34:10.839Z",
+        "updated_at": "2023-10-10T05:55:08.147Z"
+      },
+      {
+        "id": "06650fca-09af-4ffa-9cee-f95b098d1290",
+        "created_at": "2023-10-10T04:26:43.369Z",
+        "updated_at": "2023-10-10T08:12:04.368Z"
+      },
+      {
+        "id": "e3a58cc9-bd40-4cfd-99db-e542e278157a",
+        "created_at": "2023-10-09T16:13:38.234Z",
+        "updated_at": "2023-10-09T10:22:37.845Z"
+      }
+    ],
+    "niche": [
+      {
+        "id": "257b0ee7-5ac5-4e19-9de2-b3fabfec445b",
+        "created_at": "2023-10-10T03:03:13.887Z",
+        "updated_at": "2023-10-10T02:15:59.792Z"
+      },
+      {
+        "id": "f110664d-40c0-40d1-80e5-bd7203d8233f",
+        "created_at": "2023-10-09T18:00:55.068Z",
+        "updated_at": "2023-10-09T13:28:36.887Z"
+      },
+      {
+        "id": "bed3357f-8fd0-48ed-b655-5f4cc30f141f",
+        "created_at": "2023-10-09T23:33:21.345Z",
+        "updated_at": "2023-10-09T15:50:25.494Z"
+      },
+      {
+        "id": "d52f4205-e7f3-4a7e-861a-5c3e39548f88",
+        "created_at": "2023-10-09T19:45:11.731Z",
+        "updated_at": "2023-10-09T19:36:59.133Z"
+      },
+      {
+        "id": "6bc4d8d0-d8bd-4000-8c90-2588ef7531fb",
+        "created_at": "2023-10-10T03:07:58.535Z",
+        "updated_at": "2023-10-09T13:46:15.927Z"
+      }
+    ],
+    "market_analysis": [
+      {
+        "id": "d4dcc19c-4218-4016-8f40-56d2c1fb80be",
+        "created_at": "2023-10-09T14:38:17.279Z",
+        "updated_at": "2023-10-09T20:06:48.684Z"
+      },
+      {
+        "id": "53020076-1484-4758-9631-b6188baf2a36",
+        "created_at": "2023-10-10T07:28:22.013Z",
+        "updated_at": "2023-10-10T06:41:12.445Z"
+      },
+      {
+        "id": "56887443-5f69-4b5a-bddf-3d54d265b91d",
+        "created_at": "2023-10-09T23:29:03.696Z",
+        "updated_at": "2023-10-09T18:49:34.073Z"
+      },
+      {
+        "id": "f02e00e1-8ead-4b2e-a698-5764c22cc4d4",
+        "created_at": "2023-10-10T07:00:55.062Z",
+        "updated_at": "2023-10-09T22:28:04.766Z"
+      },
+      {
+        "id": "0c078367-0794-4482-9c16-98d344691845",
+        "created_at": "2023-10-10T02:54:18.008Z",
+        "updated_at": "2023-10-10T03:14:04.043Z"
+      }
+    ],
+    "industry_trends": [
+      {
+        "id": "14e67ce2-7950-487a-b246-4a4768b0387c",
+        "created_at": "2023-10-09T16:52:30.030Z",
+        "updated_at": "2023-10-10T02:28:16.054Z"
+      },
+      {
+        "id": "94bf3a8f-81c0-4855-91a2-155d0333c836",
+        "created_at": "2023-10-10T07:51:48.916Z",
+        "updated_at": "2023-10-09T22:20:39.840Z"
+      },
+      {
+        "id": "9fa3f0ea-0a94-4aac-87e4-21cc8d7ccd6a",
+        "created_at": "2023-10-10T01:30:00.062Z",
+        "updated_at": "2023-10-10T05:36:41.791Z"
+      },
+      {
+        "id": "14d0c167-90fa-4cdf-9aee-f86ca6e93156",
+        "created_at": "2023-10-09T14:21:08.388Z",
+        "updated_at": "2023-10-09T14:44:38.244Z"
+      },
+      {
+        "id": "c4253063-3a46-4b64-a01c-df4096d19ded",
+        "created_at": "2023-10-09T21:09:14.662Z",
+        "updated_at": "2023-10-09T15:13:27.025Z"
+      }
+    ],
+    "economic_indicators": [
+      {
+        "id": "085dc66a-32d4-4fdd-b57e-ffb3b7ac336d",
+        "created_at": "2023-10-10T07:59:39.348Z",
+        "updated_at": "2023-10-09T10:08:32.826Z"
+      },
+      {
+        "id": "4edb56ee-bc14-4001-a703-f589bf1d2d7f",
+        "created_at": "2023-10-10T06:47:50.601Z",
+        "updated_at": "2023-10-09T14:01:37.497Z"
+      },
+      {
+        "id": "c4e4d8df-cbd3-45c0-af15-d7d92891e06b",
+        "created_at": "2023-10-09T20:33:31.464Z",
+        "updated_at": "2023-10-09T22:02:48.957Z"
+      },
+      {
+        "id": "9f3e5763-3ce3-4593-9b94-42c58e39979d",
+        "created_at": "2023-10-09T23:52:26.502Z",
+        "updated_at": "2023-10-10T08:21:58.020Z"
+      },
+      {
+        "id": "7934136c-e041-4ce0-96df-b6e9f7c86dda",
+        "created_at": "2023-10-10T05:15:12.361Z",
+        "updated_at": "2023-10-10T01:06:27.465Z"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "2fecfe77-a84f-4737-9572-1ec14af9f363",
+        "created_at": "2023-10-09T10:45:09.588Z",
+        "updated_at": "2023-10-10T07:01:27.881Z"
+      },
+      {
+        "id": "1fb20daa-2a13-418e-8f6e-c4f0a641e4be",
+        "created_at": "2023-10-10T08:26:27.411Z",
+        "updated_at": "2023-10-09T14:08:15.396Z"
+      },
+      {
+        "id": "2132fc87-5d9f-4273-bd46-d76ce2763c31",
+        "created_at": "2023-10-10T03:59:49.051Z",
+        "updated_at": "2023-10-10T07:19:39.131Z"
+      },
+      {
+        "id": "8fb14857-59c1-430a-98cd-8ecf96f23678",
+        "created_at": "2023-10-09T18:24:17.507Z",
+        "updated_at": "2023-10-09T22:47:03.869Z"
+      },
+      {
+        "id": "9e2b6c75-b2cf-49b0-97cd-9b37ce81167b",
+        "created_at": "2023-10-09T22:05:20.393Z",
+        "updated_at": "2023-10-09T15:04:51.348Z"
+      }
+    ],
+    "business_statistics": [
+      {
+        "id": "96397c49-20cc-463d-a24a-2abaef9a747f",
+        "created_at": "2023-10-09T22:50:15.778Z",
+        "updated_at": "2023-10-09T21:26:04.177Z"
+      },
+      {
+        "id": "ee5bfb91-d118-4e32-912e-ab9879252b5b",
+        "created_at": "2023-10-10T08:38:23.592Z",
+        "updated_at": "2023-10-09T18:29:42.162Z"
+      },
+      {
+        "id": "3ee88302-a675-4bef-8ffd-b7a6eddcf509",
+        "created_at": "2023-10-09T11:44:48.936Z",
+        "updated_at": "2023-10-10T09:37:22.603Z"
+      },
+      {
+        "id": "f0eb4baf-d7ef-4cdb-9736-853332c7e1e4",
+        "created_at": "2023-10-09T20:02:13.302Z",
+        "updated_at": "2023-10-10T04:37:21.743Z"
+      },
+      {
+        "id": "5327ff3d-5355-4b16-9d05-4609ed5dbec1",
+        "created_at": "2023-10-09T12:27:25.331Z",
+        "updated_at": "2023-10-09T11:04:31.090Z"
+      }
+    ],
+    "business_environment": [
+      {
+        "id": "ef16f914-34dc-4deb-9894-233c45fa9a62",
+        "created_at": "2023-10-09T12:31:44.612Z",
+        "updated_at": "2023-10-09T12:15:41.417Z"
+      },
+      {
+        "id": "2bbb5c3e-c6bc-4be4-8b95-972963df4d70",
+        "created_at": "2023-10-09T13:29:44.676Z",
+        "updated_at": "2023-10-10T01:28:28.467Z"
+      },
+      {
+        "id": "92b4a9ae-d451-48c4-a9b7-e7ee1b70d093",
+        "created_at": "2023-10-10T06:37:25.617Z",
+        "updated_at": "2023-10-10T06:02:52.144Z"
+      },
+      {
+        "id": "fbf865f3-1f32-4cde-8161-1faef344ed4a",
+        "created_at": "2023-10-09T12:12:54.749Z",
+        "updated_at": "2023-10-10T04:05:27.305Z"
+      },
+      {
+        "id": "5b7d1510-8ff8-4192-b22d-f12737273dc8",
+        "created_at": "2023-10-09T17:01:51.647Z",
+        "updated_at": "2023-10-09T13:35:44.247Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "4be3deb5-646a-4c26-b7ea-153042f0a522",
+        "email": "Yesenia97@roq.tech",
+        "firstName": "Thora",
+        "lastName": "O'Kon",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97082731",
+        "tenantId": null
+      },
+      {
+        "reference": "fa8e41d7-d4a4-47de-adf7-3108a9629b7d",
+        "email": "Mitchell_Langworth65@roq.tech",
+        "firstName": "Rhoda",
+        "lastName": "Murazik",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/189.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7b831823-47c2-48af-ba38-336133907525",
+        "email": "Chester8@roq.tech",
+        "firstName": "Jermey",
+        "lastName": "Mayert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/194.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dde36837-1b0c-428e-a015-2587ae5557bd",
+        "email": "Cory.Mitchell@roq.tech",
+        "firstName": "Tanner",
+        "lastName": "Toy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70228522",
+        "tenantId": null
+      },
+      {
+        "reference": "0d39f724-7db9-4e08-a68d-2279aa67c0e5",
+        "email": "Autumn81@roq.tech",
+        "firstName": "Kelley",
+        "lastName": "Moen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/276.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "180032e6-f98e-4c55-917f-4a7dfb06a6b9",
+        "created_at": "2023-10-09T20:16:24.274Z",
+        "updated_at": "2023-10-09T21:40:37.644Z"
+      },
+      {
+        "id": "a33154f3-b66a-42cb-9b5f-89296a48c63a",
+        "created_at": "2023-10-09T21:05:03.960Z",
+        "updated_at": "2023-10-10T04:27:24.978Z"
+      },
+      {
+        "id": "7a1d4a1b-85f3-4993-b73b-4b58c7c90375",
+        "created_at": "2023-10-10T03:41:14.475Z",
+        "updated_at": "2023-10-10T00:00:17.621Z"
+      },
+      {
+        "id": "1e7a3887-6fde-4fa4-b394-7a5381c6587e",
+        "created_at": "2023-10-09T11:33:21.216Z",
+        "updated_at": "2023-10-10T02:31:06.445Z"
+      },
+      {
+        "id": "b0ca9396-b54b-4ff1-ba5a-289945710b19",
+        "created_at": "2023-10-10T02:23:53.772Z",
+        "updated_at": "2023-10-09T13:33:51.842Z"
+      }
+    ],
+    "region": [
+      {
+        "id": "ccb9bfdb-7214-4fe5-ac14-9e6341b3f64a",
+        "created_at": "2023-10-10T04:44:37.233Z",
+        "updated_at": "2023-10-09T11:46:17.039Z"
+      },
+      {
+        "id": "aaa8c5f7-4380-450b-a8db-4eeca0951d78",
+        "created_at": "2023-10-09T22:56:54.154Z",
+        "updated_at": "2023-10-09T16:06:47.075Z"
+      },
+      {
+        "id": "e6a2880f-d6ee-4161-9efd-e36de71a3c85",
+        "created_at": "2023-10-09T16:45:29.026Z",
+        "updated_at": "2023-10-10T02:06:39.191Z"
+      },
+      {
+        "id": "e0d8bbf5-9001-4d3d-8fdc-44b9d48321f1",
+        "created_at": "2023-10-09T21:13:34.309Z",
+        "updated_at": "2023-10-09T18:24:20.741Z"
+      },
+      {
+        "id": "4d382c8d-c8b9-4030-873e-8646b34a8a8b",
+        "created_at": "2023-10-10T09:01:27.338Z",
+        "updated_at": "2023-10-09T11:16:25.352Z"
+      }
+    ],
+    "population_growth": [
+      {
+        "id": "244dcfe2-3c68-4308-9a50-0505924d6302",
+        "created_at": "2023-10-09T16:30:30.895Z",
+        "updated_at": "2023-10-09T09:52:06.192Z"
+      },
+      {
+        "id": "4da12748-c386-46c5-bbbb-3460302d8127",
+        "created_at": "2023-10-10T01:44:54.307Z",
+        "updated_at": "2023-10-10T09:43:09.774Z"
+      },
+      {
+        "id": "26091d31-558e-40c9-b80c-63bccbf5607a",
+        "created_at": "2023-10-09T11:19:07.335Z",
+        "updated_at": "2023-10-10T05:13:34.281Z"
+      },
+      {
+        "id": "60eec941-de14-419d-9a1d-ec7f2039c92a",
+        "created_at": "2023-10-09T20:47:53.188Z",
+        "updated_at": "2023-10-09T20:02:56.886Z"
+      },
+      {
+        "id": "2c587cf1-eea6-42f2-86e7-be386ed1f5f1",
+        "created_at": "2023-10-09T10:40:33.133Z",
+        "updated_at": "2023-10-10T07:20:02.237Z"
+      }
+    ],
+    "niche": [
+      {
+        "id": "01f537be-eb0e-4d87-83cf-744737f4a05b",
+        "created_at": "2023-10-10T07:29:22.664Z",
+        "updated_at": "2023-10-10T02:54:49.481Z"
+      },
+      {
+        "id": "1aeb238e-7827-4c12-8e53-c772a85c9f81",
+        "created_at": "2023-10-09T18:55:38.949Z",
+        "updated_at": "2023-10-10T06:30:00.110Z"
+      },
+      {
+        "id": "d965c6e4-81f6-4d47-b86f-a44d2610ebd0",
+        "created_at": "2023-10-09T22:53:00.613Z",
+        "updated_at": "2023-10-09T18:38:51.203Z"
+      },
+      {
+        "id": "2aa90c0b-94b1-41b5-b83d-2c9565777088",
+        "created_at": "2023-10-10T00:19:15.843Z",
+        "updated_at": "2023-10-09T15:27:11.708Z"
+      },
+      {
+        "id": "5cd54b16-a9f2-4675-ad27-812cba8af39d",
+        "created_at": "2023-10-10T01:20:07.901Z",
+        "updated_at": "2023-10-10T01:05:04.206Z"
+      }
+    ],
+    "market_analysis": [
+      {
+        "id": "065c833f-9dac-4aee-bb11-c97a68086c65",
+        "created_at": "2023-10-10T09:22:07.190Z",
+        "updated_at": "2023-10-10T05:19:24.265Z"
+      },
+      {
+        "id": "135e3006-eccf-44d3-b93b-df1a8af6faa4",
+        "created_at": "2023-10-10T01:53:15.162Z",
+        "updated_at": "2023-10-10T02:10:12.002Z"
+      },
+      {
+        "id": "061adbde-2dc2-478f-b750-e15893623b33",
+        "created_at": "2023-10-10T06:15:48.313Z",
+        "updated_at": "2023-10-10T02:51:15.423Z"
+      },
+      {
+        "id": "9b3051bf-34ce-4b79-a8ed-b40dea649172",
+        "created_at": "2023-10-09T18:52:09.386Z",
+        "updated_at": "2023-10-09T22:25:13.149Z"
+      },
+      {
+        "id": "dfbe3f16-19c4-4d5c-9fae-5af481263e48",
+        "created_at": "2023-10-09T14:21:25.687Z",
+        "updated_at": "2023-10-09T15:18:28.946Z"
+      }
+    ],
+    "industry_trends": [
+      {
+        "id": "f8d1c769-6758-4701-9591-adb5754c931d",
+        "created_at": "2023-10-10T07:34:05.415Z",
+        "updated_at": "2023-10-10T04:34:27.753Z"
+      },
+      {
+        "id": "7acf5b32-d1c9-4f95-8118-ac584e2ed53e",
+        "created_at": "2023-10-09T12:44:46.149Z",
+        "updated_at": "2023-10-09T17:34:36.055Z"
+      },
+      {
+        "id": "f8f1c38c-cfa6-4f98-9a13-604b2400df9d",
+        "created_at": "2023-10-10T08:00:21.093Z",
+        "updated_at": "2023-10-09T16:12:33.436Z"
+      },
+      {
+        "id": "c3a45828-0f3c-4477-975b-7e408bd1cb41",
+        "created_at": "2023-10-09T16:06:25.691Z",
+        "updated_at": "2023-10-09T23:36:17.734Z"
+      },
+      {
+        "id": "18266eb2-7478-4b55-a0f6-1e6e0477a6da",
+        "created_at": "2023-10-09T13:20:36.891Z",
+        "updated_at": "2023-10-10T07:09:27.567Z"
+      }
+    ],
+    "economic_indicators": [
+      {
+        "id": "3186a9f2-2f3d-47a4-bb90-be97cf87be2b",
+        "created_at": "2023-10-10T04:12:30.029Z",
+        "updated_at": "2023-10-09T16:22:40.088Z"
+      },
+      {
+        "id": "ebb9760e-0888-4d25-aa05-8713930dc87a",
+        "created_at": "2023-10-10T06:02:07.073Z",
+        "updated_at": "2023-10-10T06:47:03.286Z"
+      },
+      {
+        "id": "c33f5f37-5086-48ff-9a5f-7406233a9c8c",
+        "created_at": "2023-10-10T02:17:37.542Z",
+        "updated_at": "2023-10-09T19:31:08.836Z"
+      },
+      {
+        "id": "fa006223-1164-4245-918d-cb88cfaf3d12",
+        "created_at": "2023-10-10T09:13:16.476Z",
+        "updated_at": "2023-10-10T01:31:07.018Z"
+      },
+      {
+        "id": "124c0c73-ab55-4749-89ed-ea0b5107ee51",
+        "created_at": "2023-10-10T06:05:08.084Z",
+        "updated_at": "2023-10-09T15:28:31.644Z"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "35eaae43-cde1-4ecf-9710-41a56481fa20",
+        "created_at": "2023-10-09T20:10:33.661Z",
+        "updated_at": "2023-10-09T13:41:28.213Z"
+      },
+      {
+        "id": "7d9bde43-2a30-4984-820e-c982919b8ec5",
+        "created_at": "2023-10-09T15:46:02.095Z",
+        "updated_at": "2023-10-10T02:49:10.717Z"
+      },
+      {
+        "id": "bec3b136-87fb-4f22-9eab-6711aca091e7",
+        "created_at": "2023-10-10T01:15:07.532Z",
+        "updated_at": "2023-10-10T06:49:54.664Z"
+      },
+      {
+        "id": "6279a36b-f0ec-444e-a126-bfdf71e5fa20",
+        "created_at": "2023-10-10T00:19:23.258Z",
+        "updated_at": "2023-10-10T00:11:18.057Z"
+      },
+      {
+        "id": "d3f689b4-65e2-4a2d-a687-4f9e48d3d010",
+        "created_at": "2023-10-10T00:22:55.289Z",
+        "updated_at": "2023-10-09T19:42:17.776Z"
+      }
+    ],
+    "business_statistics": [
+      {
+        "id": "13d1dc21-8e7b-435c-bc3d-9f7665e551e8",
+        "created_at": "2023-10-10T02:21:21.903Z",
+        "updated_at": "2023-10-09T12:06:26.000Z"
+      },
+      {
+        "id": "d094c5a7-3692-4ff3-a992-5aa096ef504b",
+        "created_at": "2023-10-10T02:04:05.234Z",
+        "updated_at": "2023-10-10T06:48:45.314Z"
+      },
+      {
+        "id": "410425b8-b543-4c82-ad96-5722c1ac8101",
+        "created_at": "2023-10-09T19:30:59.478Z",
+        "updated_at": "2023-10-10T05:03:31.010Z"
+      },
+      {
+        "id": "6cae5785-6557-4a0e-8a6f-80060aa25c94",
+        "created_at": "2023-10-09T14:09:47.784Z",
+        "updated_at": "2023-10-09T23:26:06.046Z"
+      },
+      {
+        "id": "551ec27c-ced0-4ed6-8619-d9baee861da2",
+        "created_at": "2023-10-09T22:42:22.262Z",
+        "updated_at": "2023-10-09T19:29:16.203Z"
+      }
+    ],
+    "business_environment": [
+      {
+        "id": "3f3e1b0b-49c7-42dc-8abb-61c73268a60f",
+        "created_at": "2023-10-09T21:08:37.544Z",
+        "updated_at": "2023-10-09T18:52:10.697Z"
+      },
+      {
+        "id": "66a0f35e-ed6f-4626-bb13-7b8adb2f5c69",
+        "created_at": "2023-10-10T02:52:34.653Z",
+        "updated_at": "2023-10-10T05:06:54.842Z"
+      },
+      {
+        "id": "931de10c-bec8-4d87-9aad-15e50161852c",
+        "created_at": "2023-10-09T17:50:19.223Z",
+        "updated_at": "2023-10-09T18:10:06.727Z"
+      },
+      {
+        "id": "f6aa9840-1c21-4c1f-a4ec-efebc44be51e",
+        "created_at": "2023-10-10T09:31:30.829Z",
+        "updated_at": "2023-10-09T17:38:21.643Z"
+      },
+      {
+        "id": "e3651a5f-bf1d-473e-88bf-ad7aed422801",
+        "created_at": "2023-10-09T16:08:19.875Z",
+        "updated_at": "2023-10-09T18:46:17.649Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "dc8e3c30-696c-4200-b860-d61217c0ec24",
+        "email": "Georgiana_Rowe@roq.tech",
+        "firstName": "Gerry",
+        "lastName": "Kunze",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34486870",
+        "tenantId": null
+      },
+      {
+        "reference": "c4761197-ebc4-4e99-9f8a-323e895d6ae0",
+        "email": "Adah.Murray@roq.tech",
+        "firstName": "Dora",
+        "lastName": "Shanahan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/476.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "81a79f82-0576-4ff0-9930-a6c5abe77c29",
+        "email": "Maria_Johnson@roq.tech",
+        "firstName": "Haylee",
+        "lastName": "Daniel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/914.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b54c2965-f731-40a8-89c0-864576c31441",
+        "email": "Shea.Corkery69@roq.tech",
+        "firstName": "Mathew",
+        "lastName": "Effertz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99318522",
+        "tenantId": null
+      },
+      {
+        "reference": "2d8e4d67-3adf-4596-ba53-cee38c4cafc3",
+        "email": "Stephanie38@roq.tech",
+        "firstName": "Baylee",
+        "lastName": "Kuhn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86936545",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "report": [
+      {
+        "id": "d07235ce-78e0-4257-8bb8-8bb50ceac295",
+        "created_at": "2023-10-10T05:29:02.764Z",
+        "updated_at": "2023-10-09T18:52:41.698Z"
+      },
+      {
+        "id": "fd2df389-df76-4e94-ae87-9a325bbe6db7",
+        "created_at": "2023-10-10T03:37:51.073Z",
+        "updated_at": "2023-10-10T03:48:59.883Z"
+      },
+      {
+        "id": "6b191576-4711-4f95-b196-3d7f7af8743b",
+        "created_at": "2023-10-10T01:42:17.308Z",
+        "updated_at": "2023-10-09T18:28:47.493Z"
+      },
+      {
+        "id": "862c2b58-a2db-470d-9744-5eb72fac78d1",
+        "created_at": "2023-10-09T11:14:10.796Z",
+        "updated_at": "2023-10-10T06:24:37.115Z"
+      },
+      {
+        "id": "34257fcc-e2dd-48df-ae09-e5a1cebadc64",
+        "created_at": "2023-10-09T15:41:09.551Z",
+        "updated_at": "2023-10-09T23:26:42.542Z"
+      }
+    ],
+    "region": [
+      {
+        "id": "c83d4b98-b807-40a5-9d8f-22c33fd9e18c",
+        "created_at": "2023-10-09T22:55:26.490Z",
+        "updated_at": "2023-10-10T02:06:07.649Z"
+      },
+      {
+        "id": "9315ca52-9d62-41bb-b9f9-2faf32643bcc",
+        "created_at": "2023-10-10T09:09:31.313Z",
+        "updated_at": "2023-10-10T09:41:38.330Z"
+      },
+      {
+        "id": "e51367a0-0910-484a-86c3-9ae9a46630c4",
+        "created_at": "2023-10-09T17:38:20.886Z",
+        "updated_at": "2023-10-10T08:16:32.002Z"
+      },
+      {
+        "id": "c91445ca-6301-44e3-81a9-6bfa62b64f11",
+        "created_at": "2023-10-09T09:46:51.565Z",
+        "updated_at": "2023-10-09T20:16:57.608Z"
+      },
+      {
+        "id": "e26d1844-f19e-4e8d-b70b-8011ffd8eeb2",
+        "created_at": "2023-10-10T00:27:48.301Z",
+        "updated_at": "2023-10-10T09:43:17.066Z"
+      }
+    ],
+    "population_growth": [
+      {
+        "id": "d1d6aa4b-1206-4198-bc49-8226cf29877c",
+        "created_at": "2023-10-10T06:39:38.824Z",
+        "updated_at": "2023-10-10T07:30:56.443Z"
+      },
+      {
+        "id": "53ef3c23-4c5e-4862-b5e1-e33a23efa030",
+        "created_at": "2023-10-09T10:38:18.811Z",
+        "updated_at": "2023-10-10T00:35:18.952Z"
+      },
+      {
+        "id": "23809b68-7eff-4ab3-b29c-25b7a8609421",
+        "created_at": "2023-10-09T11:26:49.002Z",
+        "updated_at": "2023-10-09T23:21:05.192Z"
+      },
+      {
+        "id": "37313dae-8f15-428a-9a73-a21a5b7f02d0",
+        "created_at": "2023-10-10T04:50:44.924Z",
+        "updated_at": "2023-10-09T12:13:11.441Z"
+      },
+      {
+        "id": "0829937c-b612-4a1b-8093-3f4cb10850f1",
+        "created_at": "2023-10-10T02:57:03.524Z",
+        "updated_at": "2023-10-09T10:29:58.282Z"
+      }
+    ],
+    "niche": [
+      {
+        "id": "b6cba910-7270-476f-a05c-c94f68641698",
+        "created_at": "2023-10-10T03:42:26.710Z",
+        "updated_at": "2023-10-09T22:08:21.590Z"
+      },
+      {
+        "id": "116dcdbe-2a79-4ee1-b29a-89d03cb2bb01",
+        "created_at": "2023-10-09T22:24:54.628Z",
+        "updated_at": "2023-10-10T03:58:43.295Z"
+      },
+      {
+        "id": "6b7f7490-6c3b-4d58-bf66-e69c0b63a96c",
+        "created_at": "2023-10-10T06:15:54.390Z",
+        "updated_at": "2023-10-09T10:49:18.849Z"
+      },
+      {
+        "id": "9c83d012-1ef6-462c-b66a-98097ca420f4",
+        "created_at": "2023-10-10T01:33:57.008Z",
+        "updated_at": "2023-10-10T08:51:17.908Z"
+      },
+      {
+        "id": "c875d5f3-4827-4a1c-9804-c545ebdc30b5",
+        "created_at": "2023-10-10T04:31:13.863Z",
+        "updated_at": "2023-10-09T21:06:48.101Z"
+      }
+    ],
+    "market_analysis": [
+      {
+        "id": "8cd4bc74-3c07-4934-99a7-510f4bff3ff0",
+        "created_at": "2023-10-10T05:39:07.650Z",
+        "updated_at": "2023-10-10T08:30:52.432Z"
+      },
+      {
+        "id": "f4f48ff9-5da6-4b1d-afe1-4236868184fe",
+        "created_at": "2023-10-09T14:19:49.745Z",
+        "updated_at": "2023-10-09T10:22:26.884Z"
+      },
+      {
+        "id": "db62f6f1-323f-4e5c-a023-721676580243",
+        "created_at": "2023-10-09T20:05:09.286Z",
+        "updated_at": "2023-10-10T07:34:14.974Z"
+      },
+      {
+        "id": "5d772b25-860d-441e-b67d-13de1c8682b8",
+        "created_at": "2023-10-10T06:30:26.791Z",
+        "updated_at": "2023-10-09T14:45:42.712Z"
+      },
+      {
+        "id": "c5611ca5-61fd-4cd5-9f06-a144bd275ab8",
+        "created_at": "2023-10-10T01:06:36.541Z",
+        "updated_at": "2023-10-10T01:23:47.031Z"
+      }
+    ],
+    "industry_trends": [
+      {
+        "id": "bc1f7fb2-3436-4691-b366-792088492af1",
+        "created_at": "2023-10-10T01:19:44.050Z",
+        "updated_at": "2023-10-09T19:15:17.063Z"
+      },
+      {
+        "id": "3c640801-dc5c-4b65-9c55-2abcb7c2b5a7",
+        "created_at": "2023-10-09T16:41:07.873Z",
+        "updated_at": "2023-10-10T09:02:52.192Z"
+      },
+      {
+        "id": "24113591-201d-4211-803e-b3ac51e1b13a",
+        "created_at": "2023-10-09T11:10:47.525Z",
+        "updated_at": "2023-10-10T03:45:11.638Z"
+      },
+      {
+        "id": "827580c8-ab21-4d39-ab2c-0ddc53a2818f",
+        "created_at": "2023-10-09T13:50:30.898Z",
+        "updated_at": "2023-10-09T17:36:13.072Z"
+      },
+      {
+        "id": "29d09284-2a8d-473c-ab08-afaeae5d8800",
+        "created_at": "2023-10-09T20:01:36.115Z",
+        "updated_at": "2023-10-09T10:15:57.997Z"
+      }
+    ],
+    "economic_indicators": [
+      {
+        "id": "f294a005-2722-43ec-b71b-f10a39375a21",
+        "created_at": "2023-10-09T09:47:12.732Z",
+        "updated_at": "2023-10-09T16:52:52.125Z"
+      },
+      {
+        "id": "ebe10e30-fc2d-49cc-86d7-0a3de1480f57",
+        "created_at": "2023-10-09T13:13:10.057Z",
+        "updated_at": "2023-10-09T16:59:04.933Z"
+      },
+      {
+        "id": "9af423ee-d6f6-4b43-a86e-19fb3bba4b84",
+        "created_at": "2023-10-09T16:05:03.637Z",
+        "updated_at": "2023-10-09T13:52:10.663Z"
+      },
+      {
+        "id": "28c1b350-d6f0-45e4-b430-e6e4b4520d11",
+        "created_at": "2023-10-09T22:34:06.201Z",
+        "updated_at": "2023-10-09T14:20:09.594Z"
+      },
+      {
+        "id": "dfe81e6f-ae38-4db9-bd8b-ce8b81c344c1",
+        "created_at": "2023-10-09T18:45:06.648Z",
+        "updated_at": "2023-10-09T21:45:20.309Z"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "6a751aec-8e83-40dc-93d9-07f090f5cc73",
+        "created_at": "2023-10-10T07:20:14.515Z",
+        "updated_at": "2023-10-10T01:19:41.829Z"
+      },
+      {
+        "id": "ff74d591-ebb4-4492-ac36-4304fbe6020e",
+        "created_at": "2023-10-09T12:22:04.887Z",
+        "updated_at": "2023-10-10T00:32:28.338Z"
+      },
+      {
+        "id": "641ede1f-ccd9-4043-ba70-29a018dee580",
+        "created_at": "2023-10-09T23:17:08.084Z",
+        "updated_at": "2023-10-09T12:57:38.153Z"
+      },
+      {
+        "id": "df119da0-8010-4aac-b307-10a04d6da2c2",
+        "created_at": "2023-10-09T10:30:31.731Z",
+        "updated_at": "2023-10-09T16:53:32.365Z"
+      },
+      {
+        "id": "f18cf01b-926a-4417-af3c-c0c1edf78be5",
+        "created_at": "2023-10-09T09:56:32.031Z",
+        "updated_at": "2023-10-10T06:31:15.795Z"
+      }
+    ],
+    "business_statistics": [
+      {
+        "id": "22913d26-71db-4a91-8652-6b461bfc8d11",
+        "created_at": "2023-10-09T21:08:57.967Z",
+        "updated_at": "2023-10-09T12:21:15.806Z"
+      },
+      {
+        "id": "f1afb343-34a5-4eaa-a268-a172a3816585",
+        "created_at": "2023-10-09T23:28:06.144Z",
+        "updated_at": "2023-10-09T13:02:01.025Z"
+      },
+      {
+        "id": "3fab0253-a6be-4456-a5eb-cf07e1fd02b7",
+        "created_at": "2023-10-10T03:59:53.889Z",
+        "updated_at": "2023-10-09T20:36:37.807Z"
+      },
+      {
+        "id": "ad6300cc-1978-4295-a981-c2255d12d7d2",
+        "created_at": "2023-10-10T07:26:13.089Z",
+        "updated_at": "2023-10-09T22:43:02.617Z"
+      },
+      {
+        "id": "0352d4d5-8683-487b-ae5c-bc0a45b99018",
+        "created_at": "2023-10-10T06:09:11.600Z",
+        "updated_at": "2023-10-10T03:00:12.437Z"
+      }
+    ],
+    "business_environment": [
+      {
+        "id": "ebe7a4b4-c5d5-4b3e-8551-53c1f042c0c7",
+        "created_at": "2023-10-10T03:29:05.524Z",
+        "updated_at": "2023-10-09T12:37:13.951Z"
+      },
+      {
+        "id": "80272812-af58-4451-9112-bde3590c0ed7",
+        "created_at": "2023-10-09T10:43:14.883Z",
+        "updated_at": "2023-10-09T13:44:08.720Z"
+      },
+      {
+        "id": "79a8b7df-2c59-4dbc-94c7-f8407896bb5f",
+        "created_at": "2023-10-10T04:23:33.219Z",
+        "updated_at": "2023-10-09T23:43:30.578Z"
+      },
+      {
+        "id": "4f68bfc0-057c-4896-8371-3c9e5011ce03",
+        "created_at": "2023-10-10T09:41:53.394Z",
+        "updated_at": "2023-10-10T07:54:31.405Z"
+      },
+      {
+        "id": "687607c7-6bc6-4830-a6ac-0c3abc8529ad",
+        "created_at": "2023-10-09T13:46:08.077Z",
+        "updated_at": "2023-10-09T15:10:00.065Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "268f5704-e37c-4697-99dd-70b703d27e9b",
+        "email": "Josiane33@roq.tech",
+        "firstName": "Judy",
+        "lastName": "Hettinger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69421577",
+        "tenantId": null
+      },
+      {
+        "reference": "8feb4cd1-0ab7-4b9d-a3a6-b3fed24ff8c6",
+        "email": "Leo.King@roq.tech",
+        "firstName": "Megane",
+        "lastName": "Morar",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71043197",
+        "tenantId": null
+      },
+      {
+        "reference": "c058d856-9cd7-4c16-940d-47c80ec61c24",
+        "email": "Lesley_Ruecker-Kling25@roq.tech",
+        "firstName": "Lavinia",
+        "lastName": "Kovacek",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1204.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f847c75b-1206-488e-8a0e-efdc54a11e7e",
+        "email": "Edgar_Lebsack-Walsh93@roq.tech",
+        "firstName": "Axel",
+        "lastName": "Langworth",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10432778",
+        "tenantId": null
+      },
+      {
+        "reference": "88f16d18-8c0b-494d-a74d-8ff777833ba7",
+        "email": "Gabriel.Tillman87@roq.tech",
+        "firstName": "Demarcus",
+        "lastName": "Reichert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/668.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
